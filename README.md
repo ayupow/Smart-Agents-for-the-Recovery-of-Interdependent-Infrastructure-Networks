@@ -8,11 +8,13 @@ __As the paper is under review, all contents in this repository are currently no
 ↓↓↓ A snippet of running the **ReAct-based agents driven by GPT-4o, GPT-4, and GPT-3.5 Turbo**.
 
 https://github.com/user-attachments/assets/9cf85f36-af04-480f-bbde-e37f10f18738
- The full video can be found here (https://github.com/ayupow/Smart-Agents-for-the-Recovery-of-Interdependent-Infrastructure-Networks/blob/8afaffe4e9188f185a932d9838f4131c8bf91c28/Videos/ReAct-openai.mp4)
+
+The full video can be found here (https://github.com/ayupow/Smart-Agents-for-the-Recovery-of-Interdependent-Infrastructure-Networks/blob/8afaffe4e9188f185a932d9838f4131c8bf91c28/Videos/ReAct-openai.mp4)
  
 ↓↓↓ A snippet of running the **ReAct-based agents driven by Qwen2.5, Deepseek-V3, Gemma-2, Llama-3.1, and Mixtral MoE**.
 
 https://github.com/user-attachments/assets/3f849a87-8716-4c5d-b26d-61c32f97b54e
+
 The full video can be found here (https://github.com/ayupow/Smart-Agents-for-the-Recovery-of-Interdependent-Infrastructure-Networks/blob/7d0df11944b803839d05eb50ccc43c1ab38b3f95/Videos/ReAct-firework.mp4)
 
 ↓↓↓ A snippet of running the **TS agent implemented by TS-ReAct pattern**. The full video can be found at:

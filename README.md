@@ -5,16 +5,17 @@ __As the paper is under review, all contents in this repository are currently no
 
 ## 0. Videos of running the agents based on ReAct and TS-ReAct patterns
 
+↓↓↓ A snippet of running the **ReAct-based agents driven by GPT-4o, GPT-4, and GPT-3.5 Turbo**. The full video can be found at:
+
 https://github.com/user-attachments/assets/8f606532-b4f8-4dae-935b-39768b23fdcf
 
-↑↑↑ Videos of runing the ReAct-based agents driven by GPT-4o, GPT-4, and GPT-3.5 Turbo.
+↓↓↓ A snippet of running the **ReAct-based agents driven by Qwen2.5, Deepseek-V3, Gemma-2, Llama-3.1, and Mixtral MoE**. The full video can be found at:
 
 
-↑↑↑ Videos of runing the ReAct-based agents driven by Qwen2.5, Deepseek-V3, Gemma-2, Llama-3.1, and Mixtral MoE.
+↓↓↓ A snippet of running the **TS agent implemented by TS-ReAct pattern**. The full video can be found at:
 
 
-
-↑↑↑ Videos of runing the TS-ReAct-based agents driven by Qwen2.5.
+↓↓↓ A snippet of running the **ReAct agent implemented by TS-ReAct pattern**. The full video can be found at:
 
 ## 1. Introduction
 ### 1.1 Objective 

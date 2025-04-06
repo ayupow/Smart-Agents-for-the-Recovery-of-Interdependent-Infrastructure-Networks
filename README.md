@@ -5,7 +5,7 @@ __As the paper is under review, all contents in this repository are currently no
 
 ## 0. Videos of running the agents based on ReAct and TS-ReAct patterns
 
-↓↓↓ A snippet of running the **ReAct-based agents driven by GPT-4o, GPT-4, and GPT-3.5 Turbo**. The full video can be found at:
+↓↓↓ A snippet of running the **ReAct-based agents driven by GPT-4o, GPT-4, and GPT-3.5 Turbo**. The full video can be found here (https://github.com/ayupow/Smart-Agents-for-the-Recovery-of-Interdependent-Infrastructure-Networks/blob/8afaffe4e9188f185a932d9838f4131c8bf91c28/Videos/ReAct-openai.mp4)
 
 https://github.com/user-attachments/assets/84dfe125-3bf4-43bc-9792-eab0e43d0587
 

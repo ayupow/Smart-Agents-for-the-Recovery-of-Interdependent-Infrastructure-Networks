@@ -11,6 +11,7 @@ https://github.com/user-attachments/assets/9cf85f36-af04-480f-bbde-e37f10f18738
 
 ↓↓↓ A snippet of running the **ReAct-based agents driven by Qwen2.5, Deepseek-V3, Gemma-2, Llama-3.1, and Mixtral MoE**. The full video can be found at:
 
+https://github.com/user-attachments/assets/3f849a87-8716-4c5d-b26d-61c32f97b54e
 
 ↓↓↓ A snippet of running the **TS agent implemented by TS-ReAct pattern**. The full video can be found at:
 

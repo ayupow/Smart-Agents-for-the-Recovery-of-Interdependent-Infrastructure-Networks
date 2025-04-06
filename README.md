@@ -23,7 +23,11 @@ https://github.com/user-attachments/assets/710dad92-1f76-4e51-84bd-471268bc73bb
 
 The full video can be found at:
 
-↓↓↓ A snippet of running the **ReAct agent implemented by TS-ReAct pattern**. The full video can be found at:
+↓↓↓ A snippet of running the **ReAct agent implemented by TS-ReAct pattern**. 
+
+https://github.com/user-attachments/assets/2ba0f564-1b8a-412e-92bf-dd5e7bb09ad6
+
+The full video can be found at:
 
 ## 1. Introduction
 ### 1.1 Objective 

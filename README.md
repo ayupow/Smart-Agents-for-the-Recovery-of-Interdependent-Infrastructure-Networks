@@ -13,7 +13,7 @@ https://github.com/user-attachments/assets/a79ed28e-a42a-4bc7-8c49-fa07a2e0df50
 
 ↓↓↓ A snippet of updating the tool kit through the prototype
 
-
+https://github.com/user-attachments/assets/310db01b-bbd3-462c-945c-60fbf6867e14
 
 The full video to showcase the prototype and tool kit updating can be found here
 

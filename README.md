@@ -17,8 +17,11 @@ https://github.com/user-attachments/assets/3f849a87-8716-4c5d-b26d-61c32f97b54e
 
 The full video can be found here (https://github.com/ayupow/Smart-Agents-for-the-Recovery-of-Interdependent-Infrastructure-Networks/blob/7d0df11944b803839d05eb50ccc43c1ab38b3f95/Videos/ReAct-firework.mp4)
 
-↓↓↓ A snippet of running the **TS agent implemented by TS-ReAct pattern**. The full video can be found at:
+↓↓↓ A snippet of running the **TS agent implemented by TS-ReAct pattern**. 
 
+https://github.com/user-attachments/assets/710dad92-1f76-4e51-84bd-471268bc73bb
+
+The full video can be found at:
 
 ↓↓↓ A snippet of running the **ReAct agent implemented by TS-ReAct pattern**. The full video can be found at:
 

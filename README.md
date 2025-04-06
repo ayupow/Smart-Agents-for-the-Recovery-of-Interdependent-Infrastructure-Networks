@@ -5,7 +5,7 @@ __As the paper is under review, all contents in this repository are currently no
 
 ## 0. Videos of agents operation
 
-### Operation of the developed prototype
+### 0.1 Operation of the developed prototype
 
 ↓↓↓ A snippet of using the developed prototype to run the TS-ReAct-based agents driven by GPT-4o
 
@@ -17,7 +17,7 @@ https://github.com/user-attachments/assets/310db01b-bbd3-462c-945c-60fbf6867e14
 
 The full video to showcase the prototype and tool kit updating can be found in: https://github.com/ayupow/Smart-Agents-for-the-Recovery-of-Interdependent-Infrastructure-Networks/blob/dc852aa1b25333338bf60541742478caf6d58be8/Videos/Operation%20of%20the%20TS-ReAct%20agent%20prototype.mp4
 
-### Operation of agents based on ReAct pattern
+### 0.2 Operation of agents based on ReAct pattern
 
 ↓↓↓ A snippet of running the **ReAct-based agents driven by GPT-4o, GPT-4, and GPT-3.5 Turbo**.
 
@@ -31,7 +31,7 @@ https://github.com/user-attachments/assets/3f849a87-8716-4c5d-b26d-61c32f97b54e
 
 The full video can be found here (https://github.com/ayupow/Smart-Agents-for-the-Recovery-of-Interdependent-Infrastructure-Networks/blob/dc852aa1b25333338bf60541742478caf6d58be8/Videos/Operations%20of%20agents%20based%20on%20ReAct%20pattern/ReAct-based%20agents%20driven%20by%20Qwen2.5%2C%20Deepseek-V3%2C%20Gemma-2%2C%20Llama-3.1%2C%20and%20Mixtral%20MoE.mp4)
 
-### Operation of agents based on TS-ReAct pattern
+### 0.3 Operation of agents based on TS-ReAct pattern
 
 ↓↓↓ A snippet of running the **TS agent based on TS-ReAct pattern**. 
 
@@ -57,12 +57,12 @@ As for anything regarding the copyright, please refer to the MIT License or cont
 This table below shows all supplemental materials. All sheets in Tables S1 and S2 are arranged in the order shown in this table.
 
 
-## 2 Reuse ths repository
-### 2.1 Reuse of the codes to operate the agents based on ReAct pattern
+## 3 Reuse ths repository
+### 3.1 Reuse of the codes to operate the agents based on ReAct pattern
 
-### 2.2 Reuse of the codes to operate the agents based on TS-ReAct pattern
+### 3.2 Reuse of the codes to operate the agents based on TS-ReAct pattern
 
-### 2.3 Reuse of the codes to operate the prototype and update the tool kit
+### 3.3 Reuse of the codes to operate the prototype and update the tool kit
 
 
 

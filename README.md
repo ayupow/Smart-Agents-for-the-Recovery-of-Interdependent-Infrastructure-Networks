@@ -5,6 +5,7 @@ __As the paper is under review, all contents in this repository are currently no
 
 ## 0. Videos of running the agents based on ReAct and TS-ReAct patterns
 
+https://github.com/user-attachments/assets/8f606532-b4f8-4dae-935b-39768b23fdcf
 
 ↑↑↑ Videos of runing the ReAct-based agents driven by GPT-4o, GPT-4, and GPT-3.5 Turbo.
 

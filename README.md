@@ -3,7 +3,21 @@
 ## ⚠️ Important Notice ⚠️
 __As the paper is under review, all contents in this repository are currently not permitted for reuse by anyone until this announcement is removed. Thank you for your understanding! 🙏__
 
-## 0. Videos of running the agents based on ReAct and TS-ReAct patterns
+## 0. Videos of running the agents
+
+### Operation of the developed prototype
+
+↓↓↓ A snippet of using the developed prototype to run the TS-ReAct-based agents driven by GPT-4o
+
+https://github.com/user-attachments/assets/a79ed28e-a42a-4bc7-8c49-fa07a2e0df50
+
+↓↓↓ A snippet of updating the tool kit through the prototype
+
+
+
+The full video to showcase the prototype and tool kit updating can be found here
+
+### Operation of agents based on ReAct pattern
 
 ↓↓↓ A snippet of running the **ReAct-based agents driven by GPT-4o, GPT-4, and GPT-3.5 Turbo**.
 
@@ -17,13 +31,15 @@ https://github.com/user-attachments/assets/3f849a87-8716-4c5d-b26d-61c32f97b54e
 
 The full video can be found here (https://github.com/ayupow/Smart-Agents-for-the-Recovery-of-Interdependent-Infrastructure-Networks/blob/7d0df11944b803839d05eb50ccc43c1ab38b3f95/Videos/ReAct-firework.mp4)
 
-↓↓↓ A snippet of running the **TS agent implemented by TS-ReAct pattern**. 
+### Operation of agents based on TS-ReAct pattern
+
+↓↓↓ A snippet of running the **TS agent based on TS-ReAct pattern**. 
 
 https://github.com/user-attachments/assets/710dad92-1f76-4e51-84bd-471268bc73bb
 
 The full video can be found at:
 
-↓↓↓ A snippet of running the **ReAct agent implemented by TS-ReAct pattern**. 
+↓↓↓ A snippet of running the **ReAct agent based on TS-ReAct pattern**. 
 
 https://github.com/user-attachments/assets/2ba0f564-1b8a-412e-92bf-dd5e7bb09ad6
 

@@ -58,7 +58,7 @@ import warnings
 # 忽略弃用警告
 warnings.filterwarnings("ignore", category=DeprecationWarning)
 
-os.environ["FIREWORKS_API_KEY"] = "fw_3ZMHggoiEU71VjRVJargnpYB"
+os.environ["FIREWORKS_API_KEY"] = " " #fill in  your API key of firework AI
 llm_1 = ChatFireworks(
     model="accounts/fireworks/models/gemma2-9b-it",
     temperature=0,

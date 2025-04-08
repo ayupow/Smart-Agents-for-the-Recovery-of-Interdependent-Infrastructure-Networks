@@ -65,6 +65,8 @@ before running the agents, please put the codes for defining tools from {} in th
 ![Image](https://github.com/user-attachments/assets/a49596fd-2f54-4fac-8b26-e75a01b95969)
 ### 3.2 Reuse of the codes to operate the agents based on TS-ReAct pattern
 
+![Image](https://github.com/user-attachments/assets/dd1884d1-dcd9-4376-9607-94a014c8950a)
+
 ### 3.3 Reuse of the codes to operate the prototype and update the tool kit
 
 

@@ -1,0 +1,1497 @@
+{
+    "nodes": [
+        {
+            "node_properties": {
+                "BH": "P1",
+                "Component": "Gate Station",
+                "Service Area": null,
+                "Location": "A22",
+                "Coordinates": [
+                    -90.15247087595122,
+                    35.0668990814967
+                ],
+                "Needs Electricity": 0,
+                "Needs Water": 1,
+                "Needs Gas": 1
+            }
+        },
+        {
+            "node_properties": {
+                "BH": "P2",
+                "Component": "Gate Station",
+                "Service Area": null,
+                "Location": "A12",
+                "Coordinates": [
+                    -89.887240289168,
+                    35.08085858606424
+                ],
+                "Needs Electricity": 0,
+                "Needs Water": 1,
+                "Needs Gas": 1
+            }
+        },
+        {
+            "node_properties": {
+                "BH": "P3",
+                "Component": "Gate Station",
+                "Service Area": null,
+                "Location": "A13",
+                "Coordinates": [
+                    -89.99637823396876,
+                    35.10687402639465
+                ],
+                "Needs Electricity": 0,
+                "Needs Water": 1,
+                "Needs Gas": 1
+            }
+        },
+        {
+            "node_properties": {
+                "BH": "P4",
+                "Component": "Gate Station",
+                "Service Area": null,
+                "Location": "A31",
+                "Coordinates": [
+                    -90.02746985777827,
+                    35.177940595102115
+                ],
+                "Needs Electricity": 0,
+                "Needs Water": 1,
+                "Needs Gas": 1
+            }
+        },
+        {
+            "node_properties": {
+                "BH": "P5",
+                "Component": "Gate Station",
+                "Service Area": null,
+                "Location": "A6",
+                "Coordinates": [
+                    -89.74447262881819,
+                    35.19190009966965
+                ],
+                "Needs Electricity": 0,
+                "Needs Water": 1,
+                "Needs Gas": 1
+            }
+        },
+        {
+            "node_properties": {
+                "BH": "P6",
+                "Component": "Gate Station",
+                "Service Area": null,
+                "Location": "A16",
+                "Coordinates": [
+                    -89.90437240840998,
+                    35.19190009966965
+                ],
+                "Needs Electricity": 0,
+                "Needs Water": 1,
+                "Needs Gas": 1
+            }
+        },
+        {
+            "node_properties": {
+                "BH": "P7",
+                "Component": "Gate Station",
+                "Service Area": null,
+                "Location": "A10",
+                "Coordinates": [
+                    -89.9564032890708,
+                    35.26994642066089
+                ],
+                "Needs Electricity": 0,
+                "Needs Water": 1,
+                "Needs Gas": 1
+            }
+        },
+        {
+            "node_properties": {
+                "BH": "P8",
+                "Component": "Gate Station",
+                "Service Area": null,
+                "Location": "A10",
+                "Coordinates": [
+                    -89.79459994067435,
+                    35.38977327754861
+                ],
+                "Needs Electricity": 0,
+                "Needs Water": 1,
+                "Needs Gas": 1
+            }
+        },
+        {
+            "node_properties": {
+                "BH": "P9",
+                "Component": "Gate Station",
+                "Service Area": null,
+                "Location": "A2",
+                "Coordinates": [
+                    -89.66071560141296,
+                    35.373373659047644
+                ],
+                "Needs Electricity": 0,
+                "Needs Water": 1,
+                "Needs Gas": 1
+            }
+        },
+        {
+            "node_properties": {
+                "BH": "P46",
+                "Component": "Intersection Node",
+                "Service Area": null,
+                "Location": "A20",
+                "Coordinates": [
+                    -89.98114968353144,
+                    35.253290193620074
+                ],
+                "Needs Electricity": 0,
+                "Needs Water": 0,
+                "Needs Gas": 0
+            }
+        },
+        {
+            "node_properties": {
+                "BH": "P47",
+                "Component": "Intersection Node",
+                "Service Area": null,
+                "Location": "A16",
+                "Coordinates": [
+                    -89.91214531436236,
+                    35.24520002620025
+                ],
+                "Needs Electricity": 0,
+                "Needs Water": 0,
+                "Needs Gas": 0
+            }
+        },
+        {
+            "node_properties": {
+                "BH": "P48",
+                "Component": "Intersection Node",
+                "Service Area": null,
+                "Location": "A20",
+                "Coordinates": [
+                    -89.99733001837109,
+                    35.19665902168131
+                ],
+                "Needs Electricity": 0,
+                "Needs Water": 0,
+                "Needs Gas": 0
+            }
+        },
+        {
+            "node_properties": {
+                "BH": "P49",
+                "Component": "Intersection Node",
+                "Service Area": null,
+                "Location": "A20",
+                "Coordinates": [
+                    -89.9844809289396,
+                    35.19570723727898
+                ],
+                "Needs Electricity": 0,
+                "Needs Water": 0,
+                "Needs Gas": 0
+            }
+        },
+        {
+            "node_properties": {
+                "BH": "P50",
+                "Component": "Intersection Node",
+                "Service Area": null,
+                "Location": "A16",
+                "Coordinates": [
+                    -89.95116847485798,
+                    35.19570723727898
+                ],
+                "Needs Electricity": 0,
+                "Needs Water": 0,
+                "Needs Gas": 0
+            }
+        },
+        {
+            "node_properties": {
+                "BH": "P51",
+                "Component": "Intersection Node",
+                "Service Area": null,
+                "Location": "A22",
+                "Coordinates": [
+                    -90.14200124752557,
+                    35.04104227190001
+                ],
+                "Needs Electricity": 0,
+                "Needs Water": 0,
+                "Needs Gas": 0
+            }
+        },
+        {
+            "node_properties": {
+                "BH": "P52",
+                "Component": "Intersection Node",
+                "Service Area": null,
+                "Location": "A22",
+                "Coordinates": [
+                    -90.07585223156349,
+                    35.0762582947863
+                ],
+                "Needs Electricity": 0,
+                "Needs Water": 0,
+                "Needs Gas": 0
+            }
+        },
+        {
+            "node_properties": {
+                "BH": "P53",
+                "Component": "Intersection Node",
+                "Service Area": null,
+                "Location": "A22",
+                "Coordinates": [
+                    -90.06395492653434,
+                    35.07530651038397
+                ],
+                "Needs Electricity": 0,
+                "Needs Water": 0,
+                "Needs Gas": 0
+            }
+        },
+        {
+            "node_properties": {
+                "BH": "P54",
+                "Component": "Intersection Node",
+                "Service Area": null,
+                "Location": "A22",
+                "Coordinates": [
+                    -90.05158172930402,
+                    35.07352492226769
+                ],
+                "Needs Electricity": 0,
+                "Needs Water": 0,
+                "Needs Gas": 0
+            }
+        },
+        {
+            "node_properties": {
+                "BH": "P55",
+                "Component": "Intersection Node",
+                "Service Area": null,
+                "Location": "A22",
+                "Coordinates": [
+                    -90.04920226829819,
+                    35.002019111404394
+                ],
+                "Needs Electricity": 0,
+                "Needs Water": 0,
+                "Needs Gas": 0
+            }
+        },
+        {
+            "node_properties": {
+                "BH": "P56",
+                "Component": "Intersection Node",
+                "Service Area": null,
+                "Location": "A24",
+                "Coordinates": [
+                    -89.96021042668013,
+                    35.07578240258513
+                ],
+                "Needs Electricity": 0,
+                "Needs Water": 0,
+                "Needs Gas": 0
+            }
+        },
+        {
+            "node_properties": {
+                "BH": "P57",
+                "Component": "Intersection Node",
+                "Service Area": null,
+                "Location": "A24",
+                "Coordinates": [
+                    -89.94260241523699,
+                    35.07721007918863
+                ],
+                "Needs Electricity": 0,
+                "Needs Water": 0,
+                "Needs Gas": 0
+            }
+        },
+        {
+            "node_properties": {
+                "BH": "P58",
+                "Component": "Intersection Node",
+                "Service Area": null,
+                "Location": "A24",
+                "Coordinates": [
+                    -89.93022921800667,
+                    35.074354725981635
+                ],
+                "Needs Electricity": 0,
+                "Needs Water": 0,
+                "Needs Gas": 0
+            }
+        },
+        {
+            "node_properties": {
+                "BH": "P59",
+                "Component": "Intersection Node",
+                "Service Area": null,
+                "Location": "A24",
+                "Coordinates": [
+                    -89.91595245197169,
+                    35.07245115717697
+                ],
+                "Needs Electricity": 0,
+                "Needs Water": 0,
+                "Needs Gas": 0
+            }
+        },
+        {
+            "node_properties": {
+                "BH": "P60",
+                "Component": "Intersection Node",
+                "Service Area": null,
+                "Location": "A2",
+                "Coordinates": [
+                    -89.87740518367724,
+                    35.25947679223523
+                ],
+                "Needs Electricity": 0,
+                "Needs Water": 0,
+                "Needs Gas": 0
+            }
+        },
+        {
+            "node_properties": {
+                "BH": "P61",
+                "Component": "Intersection Node",
+                "Service Area": null,
+                "Location": "A10",
+                "Coordinates": [
+                    -89.84932754380844,
+                    35.2851749710982
+                ],
+                "Needs Electricity": 0,
+                "Needs Water": 0,
+                "Needs Gas": 0
+            }
+        },
+        {
+            "node_properties": {
+                "BH": "P62",
+                "Component": "Intersection Node",
+                "Service Area": null,
+                "Location": "A2",
+                "Coordinates": [
+                    -89.70893934446445,
+                    35.29516870732269
+                ],
+                "Needs Electricity": 0,
+                "Needs Water": 0,
+                "Needs Gas": 0
+            }
+        },
+        {
+            "node_properties": {
+                "BH": "P63",
+                "Component": "Intersection Node",
+                "Service Area": null,
+                "Location": "A2",
+                "Coordinates": [
+                    -89.70798756006212,
+                    35.31420439536933
+                ],
+                "Needs Electricity": 0,
+                "Needs Water": 0,
+                "Needs Gas": 0
+            }
+        },
+        {
+            "node_properties": {
+                "BH": "P10",
+                "Component": "23kv Substation",
+                "Service Area": "A24",
+                "Location": "A24",
+                "Coordinates": [
+                    -89.93451224781717,
+                    35.021054799451036
+                ],
+                "Needs Electricity": 0,
+                "Needs Water": 1,
+                "Needs Gas": 1
+            }
+        },
+        {
+            "node_properties": {
+                "BH": "P11",
+                "Component": "23kv Substation",
+                "Service Area": "A9,A12",
+                "Location": "A12",
+                "Coordinates": [
+                    -89.88597124329823,
+                    35.03866281089418
+                ],
+                "Needs Electricity": 0,
+                "Needs Water": 1,
+                "Needs Gas": 1
+            }
+        },
+        {
+            "node_properties": {
+                "BH": "P12",
+                "Component": "23kv Substation",
+                "Service Area": "A26,A28,A32",
+                "Location": "A28",
+                "Coordinates": [
+                    -89.75652856458106,
+                    35.04580119391167
+                ],
+                "Needs Electricity": 0,
+                "Needs Water": 1,
+                "Needs Gas": 1
+            }
+        },
+        {
+            "node_properties": {
+                "BH": "P13",
+                "Component": "23kv Substation",
+                "Service Area": "A24",
+                "Location": "A24",
+                "Coordinates": [
+                    -89.91595245197169,
+                    35.049608331521
+                ],
+                "Needs Electricity": 0,
+                "Needs Water": 1,
+                "Needs Gas": 1
+            }
+        },
+        {
+            "node_properties": {
+                "BH": "P14",
+                "Component": "23kv Substation",
+                "Service Area": "A5,A27,A28",
+                "Location": "A28",
+                "Coordinates": [
+                    -89.82172579614081,
+                    35.050084223722166
+                ],
+                "Needs Electricity": 0,
+                "Needs Water": 1,
+                "Needs Gas": 1
+            }
+        },
+        {
+            "node_properties": {
+                "BH": "P15",
+                "Component": "23kv Substation",
+                "Service Area": "A24",
+                "Location": "A24",
+                "Coordinates": [
+                    -89.96734880969763,
+                    35.06007795994665
+                ],
+                "Needs Electricity": 0,
+                "Needs Water": 1,
+                "Needs Gas": 1
+            }
+        },
+        {
+            "node_properties": {
+                "BH": "P16",
+                "Component": "23kv Substation",
+                "Service Area": "A1",
+                "Location": "A1",
+                "Coordinates": [
+                    -90.00304072478508,
+                    35.06436098975715
+                ],
+                "Needs Electricity": 0,
+                "Needs Water": 1,
+                "Needs Gas": 1
+            }
+        },
+        {
+            "node_properties": {
+                "BH": "P17",
+                "Component": "23kv Substation",
+                "Service Area": "A22",
+                "Location": "A22",
+                "Coordinates": [
+                    -90.05158172930402,
+                    35.08958327641895
+                ],
+                "Needs Electricity": 0,
+                "Needs Water": 1,
+                "Needs Gas": 1
+            }
+        },
+        {
+            "node_properties": {
+                "BH": "P18",
+                "Component": "23kv Substation",
+                "Service Area": "A25",
+                "Location": "A25",
+                "Coordinates": [
+                    -90.13867000211741,
+                    35.09291452182711
+                ],
+                "Needs Electricity": 0,
+                "Needs Water": 1,
+                "Needs Gas": 1
+            }
+        },
+        {
+            "node_properties": {
+                "BH": "P19",
+                "Component": "23kv Substation",
+                "Service Area": "A8",
+                "Location": "A8",
+                "Coordinates": [
+                    -90.06633438754017,
+                    35.11147431767259
+                ],
+                "Needs Electricity": 0,
+                "Needs Water": 1,
+                "Needs Gas": 1
+            }
+        },
+        {
+            "node_properties": {
+                "BH": "P20",
+                "Component": "23kv Substation",
+                "Service Area": "A33",
+                "Location": "A33",
+                "Coordinates": [
+                    -89.96401756428946,
+                    35.137172496535555
+                ],
+                "Needs Electricity": 0,
+                "Needs Water": 1,
+                "Needs Gas": 1
+            }
+        },
+        {
+            "node_properties": {
+                "BH": "P21",
+                "Component": "23kv Substation",
+                "Service Area": "A6,A14,A15",
+                "Location": "A15",
+                "Coordinates": [
+                    -89.78317852784636,
+                    35.144310879553046
+                ],
+                "Needs Electricity": 0,
+                "Needs Water": 1,
+                "Needs Gas": 1
+            }
+        },
+        {
+            "node_properties": {
+                "BH": "P22",
+                "Component": "23kv Substation",
+                "Service Area": "A23",
+                "Location": "A23",
+                "Coordinates": [
+                    -89.95164436705915,
+                    35.178575118037
+                ],
+                "Needs Electricity": 0,
+                "Needs Water": 1,
+                "Needs Gas": 1
+            }
+        },
+        {
+            "node_properties": {
+                "BH": "P23",
+                "Component": "23kv Substation",
+                "Service Area": "A23",
+                "Location": "A23",
+                "Coordinates": [
+                    -89.9873362821466,
+                    35.17809922583584
+                ],
+                "Needs Electricity": 0,
+                "Needs Water": 1,
+                "Needs Gas": 1
+            }
+        },
+        {
+            "node_properties": {
+                "BH": "P24",
+                "Component": "23kv Substation",
+                "Service Area": "A30",
+                "Location": "A30",
+                "Coordinates": [
+                    -89.82172579614081,
+                    35.18999653086499
+                ],
+                "Needs Electricity": 0,
+                "Needs Water": 1,
+                "Needs Gas": 1
+            }
+        },
+        {
+            "node_properties": {
+                "BH": "P25",
+                "Component": "23kv Substation",
+                "Service Area": "A16,A19",
+                "Location": "A16",
+                "Coordinates": [
+                    -89.90310336254021,
+                    35.22283309274545
+                ],
+                "Needs Electricity": 0,
+                "Needs Water": 1,
+                "Needs Gas": 1
+            }
+        },
+        {
+            "node_properties": {
+                "BH": "P26",
+                "Component": "23kv Substation",
+                "Service Area": "A2",
+                "Location": "A2",
+                "Coordinates": [
+                    -89.71179469767145,
+                    35.27946426468421
+                ],
+                "Needs Electricity": 0,
+                "Needs Water": 1,
+                "Needs Gas": 1
+            }
+        },
+        {
+            "node_properties": {
+                "BH": "P27",
+                "Component": "12kv Substation",
+                "Service Area": "A22",
+                "Location": "A22",
+                "Coordinates": [
+                    -90.05015405270052,
+                    35.01581998523821
+                ],
+                "Needs Electricity": 0,
+                "Needs Water": 1,
+                "Needs Gas": 1
+            }
+        },
+        {
+            "node_properties": {
+                "BH": "P28",
+                "Component": "12kv Substation",
+                "Service Area": "A1",
+                "Location": "A1",
+                "Coordinates": [
+                    -90.01588981421656,
+                    35.03057264347436
+                ],
+                "Needs Electricity": 0,
+                "Needs Water": 1,
+                "Needs Gas": 1
+            }
+        },
+        {
+            "node_properties": {
+                "BH": "P29",
+                "Component": "12kv Substation",
+                "Service Area": "A22",
+                "Location": "A22",
+                "Coordinates": [
+                    -90.09488791961013,
+                    35.04437351730817
+                ],
+                "Needs Electricity": 0,
+                "Needs Water": 1,
+                "Needs Gas": 1
+            }
+        },
+        {
+            "node_properties": {
+                "BH": "P30",
+                "Component": "12kv Substation",
+                "Service Area": "A21",
+                "Location": "A21",
+                "Coordinates": [
+                    -89.92356672719035,
+                    35.08815559981545
+                ],
+                "Needs Electricity": 0,
+                "Needs Water": 1,
+                "Needs Gas": 1
+            }
+        },
+        {
+            "node_properties": {
+                "BH": "P31",
+                "Component": "12kv Substation",
+                "Service Area": "A22",
+                "Location": "A22",
+                "Coordinates": [
+                    -90.08203883017865,
+                    35.090059168620115
+                ],
+                "Needs Electricity": 0,
+                "Needs Water": 1,
+                "Needs Gas": 1
+            }
+        },
+        {
+            "node_properties": {
+                "BH": "P32",
+                "Component": "12kv Substation",
+                "Service Area": "A7,A11",
+                "Location": "A7",
+                "Coordinates": [
+                    -89.88026053688424,
+                    35.10861896446559
+                ],
+                "Needs Electricity": 0,
+                "Needs Water": 1,
+                "Needs Gas": 1
+            }
+        },
+        {
+            "node_properties": {
+                "BH": "P33",
+                "Component": "12kv Substation",
+                "Service Area": "A21",
+                "Location": "A21",
+                "Coordinates": [
+                    -89.93308457121367,
+                    35.116709131885415
+                ],
+                "Needs Electricity": 0,
+                "Needs Water": 1,
+                "Needs Gas": 1
+            }
+        },
+        {
+            "node_properties": {
+                "BH": "P34",
+                "Component": "12kv Substation",
+                "Service Area": "A13,A18",
+                "Location": "A18",
+                "Coordinates": [
+                    -90.00732375459557,
+                    35.125275191506404
+                ],
+                "Needs Electricity": 0,
+                "Needs Water": 1,
+                "Needs Gas": 1
+            }
+        },
+        {
+            "node_properties": {
+                "BH": "P35",
+                "Component": "12kv Substation",
+                "Service Area": "A34",
+                "Location": "A34",
+                "Coordinates": [
+                    -90.04872637609702,
+                    35.13193768232273
+                ],
+                "Needs Electricity": 0,
+                "Needs Water": 1,
+                "Needs Gas": 1
+            }
+        },
+        {
+            "node_properties": {
+                "BH": "P36",
+                "Component": "12kv Substation",
+                "Service Area": "A17",
+                "Location": "A17",
+                "Coordinates": [
+                    -90.02873890364805,
+                    35.14002784974255
+                ],
+                "Needs Electricity": 0,
+                "Needs Water": 1,
+                "Needs Gas": 1
+            }
+        },
+        {
+            "node_properties": {
+                "BH": "P37",
+                "Component": "12kv Substation",
+                "Service Area": "A29,A31",
+                "Location": "A29",
+                "Coordinates": [
+                    -90.0434915618842,
+                    35.157635861185696
+                ],
+                "Needs Electricity": 0,
+                "Needs Water": 1,
+                "Needs Gas": 1
+            }
+        },
+        {
+            "node_properties": {
+                "BH": "P38",
+                "Component": "12kv Substation",
+                "Service Area": "A3,A4",
+                "Location": "A4",
+                "Coordinates": [
+                    -89.8878748121029,
+                    35.16715370520902
+                ],
+                "Needs Electricity": 0,
+                "Needs Water": 1,
+                "Needs Gas": 1
+            }
+        },
+        {
+            "node_properties": {
+                "BH": "P39",
+                "Component": "12kv Substation",
+                "Service Area": "A20",
+                "Location": "A20",
+                "Coordinates": [
+                    -90.04587102289003,
+                    35.208556326710465
+                ],
+                "Needs Electricity": 0,
+                "Needs Water": 1,
+                "Needs Gas": 1
+            }
+        },
+        {
+            "node_properties": {
+                "BH": "P40",
+                "Component": "12kv Substation",
+                "Service Area": "A16",
+                "Location": "A16",
+                "Coordinates": [
+                    -89.9621139954848,
+                    35.21759827853262
+                ],
+                "Needs Electricity": 0,
+                "Needs Water": 1,
+                "Needs Gas": 1
+            }
+        },
+        {
+            "node_properties": {
+                "BH": "P41",
+                "Component": "12kv Substation",
+                "Service Area": "A20",
+                "Location": "A20",
+                "Coordinates": [
+                    -89.99495055736526,
+                    35.24139288859092
+                ],
+                "Needs Electricity": 0,
+                "Needs Water": 1,
+                "Needs Gas": 1
+            }
+        },
+        {
+            "node_properties": {
+                "BH": "P42",
+                "Component": "12kv Substation",
+                "Service Area": "A20",
+                "Location": "A20",
+                "Coordinates": [
+                    -89.97972200692794,
+                    35.26947052845972
+                ],
+                "Needs Electricity": 0,
+                "Needs Water": 1,
+                "Needs Gas": 1
+            }
+        },
+        {
+            "node_properties": {
+                "BH": "P43",
+                "Component": "12kv Substation",
+                "Service Area": "A10",
+                "Location": "A10",
+                "Coordinates": [
+                    -89.97068005510579,
+                    35.27898837248304
+                ],
+                "Needs Electricity": 0,
+                "Needs Water": 1,
+                "Needs Gas": 1
+            }
+        },
+        {
+            "node_properties": {
+                "BH": "P44",
+                "Component": "12kv Substation",
+                "Service Area": "A10",
+                "Location": "A10",
+                "Coordinates": [
+                    -89.95307204366264,
+                    35.28612675550053
+                ],
+                "Needs Electricity": 0,
+                "Needs Water": 1,
+                "Needs Gas": 1
+            }
+        },
+        {
+            "node_properties": {
+                "BH": "P45",
+                "Component": "12kv Substation",
+                "Service Area": "A10",
+                "Location": "A10",
+                "Coordinates": [
+                    -89.88739891990173,
+                    35.33752311322647
+                ],
+                "Needs Electricity": 0,
+                "Needs Water": 1,
+                "Needs Gas": 1
+            }
+        }
+    ],
+    "edges": [
+        {
+            "edge_properties": {
+                "BH": "POWER_L1",
+                "Start": "P51",
+                "End": "P55"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "POWER_L2",
+                "Start": "P10",
+                "End": "P55"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "POWER_L3",
+                "Start": "P51",
+                "End": "P29"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "POWER_L4",
+                "Start": "P1",
+                "End": "P51"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "POWER_L5",
+                "Start": "P1",
+                "End": "P18"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "POWER_L6",
+                "Start": "P18",
+                "End": "P19"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "POWER_L7",
+                "Start": "P1",
+                "End": "P52"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "POWER_L8",
+                "Start": "P16",
+                "End": "P29"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "POWER_L9",
+                "Start": "P16",
+                "End": "P28"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "POWER_L10",
+                "Start": "P10",
+                "End": "P11"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "POWER_L11",
+                "Start": "P13",
+                "End": "P10"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "POWER_L12",
+                "Start": "P13",
+                "End": "P11"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "POWER_L13",
+                "Start": "P14",
+                "End": "P12"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "POWER_L14",
+                "Start": "P5",
+                "End": "P12"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "POWER_L15",
+                "Start": "P5",
+                "End": "P21"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "POWER_L16",
+                "Start": "P5",
+                "End": "P26"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "POWER_L17",
+                "Start": "P9",
+                "End": "P63"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "POWER_L18",
+                "Start": "P63",
+                "End": "P62"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "POWER_L19",
+                "Start": "P61",
+                "End": "P62"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "POWER_L20",
+                "Start": "P8",
+                "End": "P63"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "POWER_L21",
+                "Start": "P9",
+                "End": "P8"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "POWER_L22",
+                "Start": "P8",
+                "End": "P61"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "POWER_L23",
+                "Start": "P8",
+                "End": "P45"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "POWER_L24",
+                "Start": "P44",
+                "End": "P45"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "POWER_L25",
+                "Start": "P42",
+                "End": "P39"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "POWER_L26",
+                "Start": "P39",
+                "End": "P46"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "POWER_L27",
+                "Start": "P7",
+                "End": "P40"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "POWER_L28",
+                "Start": "P7",
+                "End": "P25"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "POWER_L29",
+                "Start": "P60",
+                "End": "P25"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "POWER_L30",
+                "Start": "P6",
+                "End": "P25"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "POWER_L31",
+                "Start": "P5",
+                "End": "P24"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "POWER_L32",
+                "Start": "P6",
+                "End": "P24"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "POWER_L33",
+                "Start": "P38",
+                "End": "P32"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "POWER_L34",
+                "Start": "P6",
+                "End": "P38"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "POWER_L35",
+                "Start": "P58",
+                "End": "P30"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "POWER_L36",
+                "Start": "P32",
+                "End": "P33"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "POWER_L37",
+                "Start": "P16",
+                "End": "P56"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "POWER_L38",
+                "Start": "P56",
+                "End": "P57"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "POWER_L39",
+                "Start": "P57",
+                "End": "P33"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "POWER_L40",
+                "Start": "P3",
+                "End": "P56"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "POWER_L41",
+                "Start": "P3",
+                "End": "P16"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "POWER_L42",
+                "Start": "P3",
+                "End": "P19"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "POWER_L62",
+                "Start": "P55",
+                "End": "P27"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "POWER_L44",
+                "Start": "P3",
+                "End": "P54"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "POWER_L45",
+                "Start": "P22",
+                "End": "P20"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "POWER_L46",
+                "Start": "P50",
+                "End": "P49"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "POWER_L47",
+                "Start": "P49",
+                "End": "P23"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "POWER_L48",
+                "Start": "P2",
+                "End": "P59"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "POWER_L49",
+                "Start": "P59",
+                "End": "P58"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "POWER_L50",
+                "Start": "P59",
+                "End": "P13"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "POWER_L51",
+                "Start": "P2",
+                "End": "P14"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "POWER_L52",
+                "Start": "P2",
+                "End": "P21"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "POWER_L53",
+                "Start": "P61",
+                "End": "P60"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "POWER_L54",
+                "Start": "P60",
+                "End": "P47"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "POWER_L55",
+                "Start": "P47",
+                "End": "P40"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "POWER_L56",
+                "Start": "P4",
+                "End": "P48"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "POWER_L57",
+                "Start": "P48",
+                "End": "P40"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "POWER_L58",
+                "Start": "P4",
+                "End": "P39"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "POWER_L59",
+                "Start": "P37",
+                "End": "P35"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "POWER_L60",
+                "Start": "P4",
+                "End": "P37"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "POWER_L61",
+                "Start": "P37",
+                "End": "P36"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "POWER_L43",
+                "Start": "P19",
+                "End": "P55"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "POWER_L63",
+                "Start": "P56",
+                "End": "P15"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "POWER_L64",
+                "Start": "P52",
+                "End": "P31"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "POWER_L65",
+                "Start": "P54",
+                "End": "P17"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "POWER_L66",
+                "Start": "P48",
+                "End": "P49"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "POWER_L67",
+                "Start": "P50",
+                "End": "P22"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "POWER_L68",
+                "Start": "P7",
+                "End": "P46"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "POWER_L69",
+                "Start": "P46",
+                "End": "P41"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "POWER_L70",
+                "Start": "P7",
+                "End": "P44"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "POWER_L71",
+                "Start": "P7",
+                "End": "P43"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "POWER_L72",
+                "Start": "P7",
+                "End": "P42"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "POWER_L73",
+                "Start": "P62",
+                "End": "P26"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "POWER_L74",
+                "Start": "P3",
+                "End": "P34"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "POWER_L75",
+                "Start": "P34",
+                "End": "P36"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "POWER_L76",
+                "Start": "P35",
+                "End": "P19"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "POWER_L77",
+                "Start": "P2",
+                "End": "P32"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "POWER_L78",
+                "Start": "P6",
+                "End": "P50"
+            }
+        }
+    ]
+}

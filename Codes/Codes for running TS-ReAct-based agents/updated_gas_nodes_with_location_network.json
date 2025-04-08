@@ -1,0 +1,358 @@
+{
+    "nodes": [
+        {
+            "node_properties": {
+                "BH": "G1",
+                "Component": "Gate Station",
+                "Service Area": null,
+                "Location": "A22",
+                "Coordinates": [
+                    -90.10087226284963,
+                    35.001478326295995
+                ],
+                "Needs Electricity": 0,
+                "Needs Water": 0,
+                "Needs Gas": 0
+            }
+        },
+        {
+            "node_properties": {
+                "BH": "G2",
+                "Component": "Gate Station",
+                "Service Area": null,
+                "Location": "A6",
+                "Coordinates": [
+                    -89.80201196051735,
+                    35.186759023283315
+                ],
+                "Needs Electricity": 0,
+                "Needs Water": 0,
+                "Needs Gas": 0
+            }
+        },
+        {
+            "node_properties": {
+                "BH": "G3",
+                "Component": "Gate Station",
+                "Service Area": null,
+                "Location": "A2",
+                "Coordinates": [
+                    -89.7036609056097,
+                    35.33841000472157
+                ],
+                "Needs Electricity": 0,
+                "Needs Water": 0,
+                "Needs Gas": 0
+            }
+        },
+        {
+            "node_properties": {
+                "BH": "G15",
+                "Component": "Intersection Node",
+                "Service Area": null,
+                "Location": "A6",
+                "Coordinates": [
+                    -89.7461739422472,
+                    35.186759023283315
+                ],
+                "Needs Electricity": 0,
+                "Needs Water": 0,
+                "Needs Gas": 0
+            }
+        },
+        {
+            "node_properties": {
+                "BH": "G16",
+                "Component": "Intersection Node",
+                "Service Area": null,
+                "Location": "A2",
+                "Coordinates": [
+                    -89.70746804321902,
+                    35.306049335042275
+                ],
+                "Needs Electricity": 0,
+                "Needs Water": 0,
+                "Needs Gas": 0
+            }
+        },
+        {
+            "node_properties": {
+                "BH": "G4",
+                "Component": "Regulator Station",
+                "Service Area": "A1,A8,A13,A18,A21,A24",
+                "Location": "A1",
+                "Coordinates": [
+                    -89.99355756565092,
+                    35.00358129279066
+                ],
+                "Needs Electricity": 0,
+                "Needs Water": 0,
+                "Needs Gas": 0
+            }
+        },
+        {
+            "node_properties": {
+                "BH": "G5",
+                "Component": "Regulator Station",
+                "Service Area": "A5,A9,A12,A26,A27,A28",
+                "Location": "A27",
+                "Coordinates": [
+                    -89.75378821746585,
+                    35.047798500542825
+                ],
+                "Needs Electricity": 0,
+                "Needs Water": 0,
+                "Needs Gas": 0
+            }
+        },
+        {
+            "node_properties": {
+                "BH": "G6",
+                "Component": "Regulator Station",
+                "Service Area": "A17,A22,A25,A34",
+                "Location": "A22",
+                "Coordinates": [
+                    -90.15671028111979,
+                    35.07254489500346
+                ],
+                "Needs Electricity": 0,
+                "Needs Water": 0,
+                "Needs Gas": 0
+            }
+        },
+        {
+            "node_properties": {
+                "BH": "G7",
+                "Component": "Regulator Station",
+                "Service Area": "A32",
+                "Location": "A32",
+                "Coordinates": [
+                    -89.74934655692164,
+                    35.09538772065943
+                ],
+                "Needs Electricity": 0,
+                "Needs Water": 0,
+                "Needs Gas": 0
+            }
+        },
+        {
+            "node_properties": {
+                "BH": "G8",
+                "Component": "Regulator Station",
+                "Service Area": "A6,A15",
+                "Location": "A15",
+                "Coordinates": [
+                    -89.7461739422472,
+                    35.13472814262249
+                ],
+                "Needs Electricity": 0,
+                "Needs Water": 0,
+                "Needs Gas": 0
+            }
+        },
+        {
+            "node_properties": {
+                "BH": "G9",
+                "Component": "Regulator Station",
+                "Service Area": "A14",
+                "Location": "A14",
+                "Coordinates": [
+                    -89.65480263962331,
+                    35.18295188567399
+                ],
+                "Needs Electricity": 0,
+                "Needs Water": 0,
+                "Needs Gas": 0
+            }
+        },
+        {
+            "node_properties": {
+                "BH": "G10",
+                "Component": "Regulator Station",
+                "Service Area": "A3,A4,A7,A11,A19,A30",
+                "Location": "A4",
+                "Coordinates": [
+                    -89.83754524487108,
+                    35.18866259208798
+                ],
+                "Needs Electricity": 0,
+                "Needs Water": 0,
+                "Needs Gas": 0
+            }
+        },
+        {
+            "node_properties": {
+                "BH": "G11",
+                "Component": "Regulator Station",
+                "Service Area": "A2",
+                "Location": "A2",
+                "Coordinates": [
+                    -89.72015850191679,
+                    35.209601848939286
+                ],
+                "Needs Electricity": 0,
+                "Needs Water": 0,
+                "Needs Gas": 0
+            }
+        },
+        {
+            "node_properties": {
+                "BH": "G12",
+                "Component": "Regulator Station",
+                "Service Area": "A10,A16,A20,A23,A29,A31,A33",
+                "Location": "A10",
+                "Coordinates": [
+                    -89.97396767587202,
+                    35.27559223416765
+                ],
+                "Needs Electricity": 0,
+                "Needs Water": 0,
+                "Needs Gas": 0
+            }
+        },
+        {
+            "node_properties": {
+                "BH": "G13",
+                "Component": "Regulator Station",
+                "Service Area": "A2",
+                "Location": "A2",
+                "Coordinates": [
+                    -89.69414306158637,
+                    35.28384103232119
+                ],
+                "Needs Electricity": 0,
+                "Needs Water": 0,
+                "Needs Gas": 0
+            }
+        },
+        {
+            "node_properties": {
+                "BH": "G14",
+                "Component": "Regulator Station",
+                "Service Area": "A10",
+                "Location": "A10",
+                "Coordinates": [
+                    -89.77028581377294,
+                    35.34475523407045
+                ],
+                "Needs Electricity": 0,
+                "Needs Water": 0,
+                "Needs Gas": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "edge_properties": {
+                "BH": "GAS_L1",
+                "Start": "G1",
+                "End": "G4"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "GAS_L2",
+                "Start": "G1",
+                "End": "G6"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "GAS_L3",
+                "Start": "G1",
+                "End": "G10"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "GAS_L4",
+                "Start": "G10",
+                "End": "G12"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "GAS_L5",
+                "Start": "G10",
+                "End": "G14"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "GAS_L6",
+                "Start": "G14",
+                "End": "G12"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "GAS_L7",
+                "Start": "G3",
+                "End": "G14"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "GAS_L8",
+                "Start": "G3",
+                "End": "G16"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "GAS_L9",
+                "Start": "G16",
+                "End": "G13"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "GAS_L10",
+                "Start": "G16",
+                "End": "G11"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "GAS_L11",
+                "Start": "G2",
+                "End": "G15"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "GAS_L12",
+                "Start": "G15",
+                "End": "G11"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "GAS_L13",
+                "Start": "G15",
+                "End": "G9"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "GAS_L14",
+                "Start": "G15",
+                "End": "G8"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "GAS_L15",
+                "Start": "G8",
+                "End": "G7"
+            }
+        },
+        {
+            "edge_properties": {
+                "BH": "GAS_L16",
+                "Start": "G7",
+                "End": "G5"
+            }
+        }
+    ]
+}

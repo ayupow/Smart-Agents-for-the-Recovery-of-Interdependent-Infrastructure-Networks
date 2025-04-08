@@ -1,0 +1,3455 @@
+{
+    "nodes": [
+        {
+            "Code": "G1",
+            "Facility": "Gate Station",
+            "Service Area": null,
+            "Location": "A22",
+            "Demands": "power",
+            "Coordinates": [
+                -90.10087226284963,
+                35.001478326295995
+            ],
+            "Infrastructure Type": "gas",
+            "if_removed": 0
+        },
+        {
+            "Code": "G2",
+            "Facility": "Gate Station",
+            "Service Area": null,
+            "Location": "A6",
+            "Demands": "power",
+            "Coordinates": [
+                -89.80201196051735,
+                35.186759023283315
+            ],
+            "Infrastructure Type": "gas",
+            "if_removed": 0
+        },
+        {
+            "Code": "G3",
+            "Facility": "Gate Station",
+            "Service Area": null,
+            "Location": "A2",
+            "Demands": "power",
+            "Coordinates": [
+                -89.7036609056097,
+                35.33841000472157
+            ],
+            "Infrastructure Type": "gas",
+            "if_removed": 0
+        },
+        {
+            "Code": "G15",
+            "Facility": "Intersection Node",
+            "Service Area": null,
+            "Location": "A6",
+            "Demands": null,
+            "Coordinates": [
+                -89.7461739422472,
+                35.186759023283315
+            ],
+            "Infrastructure Type": "gas",
+            "if_removed": 0
+        },
+        {
+            "Code": "G16",
+            "Facility": "Intersection Node",
+            "Service Area": null,
+            "Location": "A2",
+            "Demands": null,
+            "Coordinates": [
+                -89.70746804321902,
+                35.306049335042275
+            ],
+            "Infrastructure Type": "gas",
+            "if_removed": 0
+        },
+        {
+            "Code": "G4",
+            "Facility": "Regulator Station",
+            "Service Area": "A1,A8,A13,A18,A21,A24",
+            "Location": "A1",
+            "Demands": "power",
+            "Coordinates": [
+                -89.99355756565092,
+                34.99954921024237
+            ],
+            "Infrastructure Type": "gas",
+            "if_removed": 0
+        },
+        {
+            "Code": "G5",
+            "Facility": "Regulator Station",
+            "Service Area": "A5,A9,A12,A26,A27,A28",
+            "Location": "A27",
+            "Demands": "power",
+            "Coordinates": [
+                -89.75378821746585,
+                35.047798500542825
+            ],
+            "Infrastructure Type": "gas",
+            "if_removed": 0
+        },
+        {
+            "Code": "G6",
+            "Facility": "Regulator Station",
+            "Service Area": "A17,A22,A25,A34",
+            "Location": "A22",
+            "Demands": "power",
+            "Coordinates": [
+                -90.15671028111979,
+                35.07254489500346
+            ],
+            "Infrastructure Type": "gas",
+            "if_removed": 0
+        },
+        {
+            "Code": "G7",
+            "Facility": "Regulator Station",
+            "Service Area": "A32",
+            "Location": "A32",
+            "Demands": "power",
+            "Coordinates": [
+                -89.74934655692164,
+                35.09538772065943
+            ],
+            "Infrastructure Type": "gas",
+            "if_removed": 0
+        },
+        {
+            "Code": "G8",
+            "Facility": "Regulator Station",
+            "Service Area": "A6,A15",
+            "Location": "A15",
+            "Demands": "power",
+            "Coordinates": [
+                -89.7461739422472,
+                35.13472814262249
+            ],
+            "Infrastructure Type": "gas",
+            "if_removed": 0
+        },
+        {
+            "Code": "G9",
+            "Facility": "Regulator Station",
+            "Service Area": "A14",
+            "Location": "A14",
+            "Demands": "power",
+            "Coordinates": [
+                -89.65480263962331,
+                35.18295188567399
+            ],
+            "Infrastructure Type": "gas",
+            "if_removed": 0
+        },
+        {
+            "Code": "G10",
+            "Facility": "Regulator Station",
+            "Service Area": "A3,A4,A7,A11,A19,A30",
+            "Location": "A4",
+            "Demands": "power",
+            "Coordinates": [
+                -89.83754524487108,
+                35.18866259208798
+            ],
+            "Infrastructure Type": "gas",
+            "if_removed": 0
+        },
+        {
+            "Code": "G11",
+            "Facility": "Regulator Station",
+            "Service Area": "A2",
+            "Location": "A2",
+            "Demands": "power",
+            "Coordinates": [
+                -89.72015850191679,
+                35.209601848939286
+            ],
+            "Infrastructure Type": "gas",
+            "if_removed": 0
+        },
+        {
+            "Code": "G12",
+            "Facility": "Regulator Station",
+            "Service Area": "A10,A16,A20,A23,A29,A31,A33",
+            "Location": "A10",
+            "Demands": "power",
+            "Coordinates": [
+                -89.97396767587202,
+                35.27559223416765
+            ],
+            "Infrastructure Type": "gas",
+            "if_removed": 0
+        },
+        {
+            "Code": "G13",
+            "Facility": "Regulator Station",
+            "Service Area": "A2",
+            "Location": "A2",
+            "Demands": "power",
+            "Coordinates": [
+                -89.69414306158637,
+                35.28384103232119
+            ],
+            "Infrastructure Type": "gas",
+            "if_removed": 0
+        },
+        {
+            "Code": "G14",
+            "Facility": "Regulator Station",
+            "Service Area": "A10",
+            "Location": "A10",
+            "Demands": "power",
+            "Coordinates": [
+                -89.77028581377294,
+                35.34475523407045
+            ],
+            "Infrastructure Type": "gas",
+            "if_removed": 1
+        },
+        {
+            "Code": "P1",
+            "Facility": "Power Plant",
+            "Service Area": null,
+            "Location": "A22",
+            "Demands": "water, gas",
+            "Coordinates": [
+                -90.15247087595122,
+                35.0668990814967
+            ],
+            "Infrastructure Type": "power",
+            "if_removed": 1
+        },
+        {
+            "Code": "P2",
+            "Facility": "Power Plant",
+            "Service Area": null,
+            "Location": "A12",
+            "Demands": "water, gas",
+            "Coordinates": [
+                -89.887240289168,
+                35.08085858606424
+            ],
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P3",
+            "Facility": "Power Plant",
+            "Service Area": null,
+            "Location": "A13",
+            "Demands": null,
+            "Coordinates": [
+                -89.99637823396876,
+                35.10687402639465
+            ],
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P4",
+            "Facility": "Power Plant",
+            "Service Area": null,
+            "Location": "A31",
+            "Demands": null,
+            "Coordinates": [
+                -90.02746985777827,
+                35.177940595102115
+            ],
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P5",
+            "Facility": "Power Plant",
+            "Service Area": null,
+            "Location": "A6",
+            "Demands": "water, gas",
+            "Coordinates": [
+                -89.74447262881819,
+                35.19190009966965
+            ],
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P6",
+            "Facility": "Power Plant",
+            "Service Area": null,
+            "Location": "A16",
+            "Demands": "water, gas",
+            "Coordinates": [
+                -89.90437240840998,
+                35.19190009966965
+            ],
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P7",
+            "Facility": "Power Plant",
+            "Service Area": null,
+            "Location": "A10",
+            "Demands": "water, gas",
+            "Coordinates": [
+                -89.9564032890708,
+                35.26994642066089
+            ],
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P8",
+            "Facility": "Power Plant",
+            "Service Area": null,
+            "Location": "A10",
+            "Demands": null,
+            "Coordinates": [
+                -89.79459994067435,
+                35.38977327754861
+            ],
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P9",
+            "Facility": "Power Plant",
+            "Service Area": null,
+            "Location": "A2",
+            "Demands": null,
+            "Coordinates": [
+                -89.66071560141296,
+                35.373373659047644
+            ],
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P46",
+            "Facility": "Intersection Node",
+            "Service Area": null,
+            "Location": "A20",
+            "Demands": null,
+            "Coordinates": [
+                -89.98114968353144,
+                35.253290193620074
+            ],
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P47",
+            "Facility": "Intersection Node",
+            "Service Area": null,
+            "Location": "A16",
+            "Demands": null,
+            "Coordinates": [
+                -89.91214531436236,
+                35.24520002620025
+            ],
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P48",
+            "Facility": "Intersection Node",
+            "Service Area": null,
+            "Location": "A20",
+            "Demands": null,
+            "Coordinates": [
+                -89.99733001837109,
+                35.19665902168131
+            ],
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P49",
+            "Facility": "Intersection Node",
+            "Service Area": null,
+            "Location": "A20",
+            "Demands": null,
+            "Coordinates": [
+                -89.9844809289396,
+                35.19570723727898
+            ],
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P50",
+            "Facility": "Intersection Node",
+            "Service Area": null,
+            "Location": "A16",
+            "Demands": "power",
+            "Coordinates": [
+                -89.95116847485798,
+                35.19570723727898
+            ],
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P51",
+            "Facility": "Intersection Node",
+            "Service Area": null,
+            "Location": "A22",
+            "Demands": "power",
+            "Coordinates": [
+                -90.14200124752557,
+                35.04104227190001
+            ],
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P52",
+            "Facility": "Intersection Node",
+            "Service Area": null,
+            "Location": "A22",
+            "Demands": "power",
+            "Coordinates": [
+                -90.07585223156349,
+                35.0762582947863
+            ],
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P53",
+            "Facility": "Intersection Node",
+            "Service Area": null,
+            "Location": "A22",
+            "Demands": "power",
+            "Coordinates": [
+                -90.06395492653434,
+                35.07530651038397
+            ],
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P54",
+            "Facility": "Intersection Node",
+            "Service Area": null,
+            "Location": "A1",
+            "Demands": "power",
+            "Coordinates": [
+                -90.05158172930402,
+                35.07387883378047
+            ],
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P55",
+            "Facility": "Intersection Node",
+            "Service Area": null,
+            "Location": "A22",
+            "Demands": "power",
+            "Coordinates": [
+                -90.04920226829819,
+                35.002019111404394
+            ],
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P56",
+            "Facility": "Intersection Node",
+            "Service Area": null,
+            "Location": "A24",
+            "Demands": "power",
+            "Coordinates": [
+                -89.96021042668013,
+                35.07578240258513
+            ],
+            "Infrastructure Type": "power",
+            "if_removed": 1
+        },
+        {
+            "Code": "P57",
+            "Facility": "Intersection Node",
+            "Service Area": null,
+            "Location": "A24",
+            "Demands": "power",
+            "Coordinates": [
+                -89.94260241523699,
+                35.07721007918863
+            ],
+            "Infrastructure Type": "power",
+            "if_removed": 1
+        },
+        {
+            "Code": "P58",
+            "Facility": "Intersection Node",
+            "Service Area": null,
+            "Location": "A24",
+            "Demands": "power",
+            "Coordinates": [
+                -89.93022921800667,
+                35.074354725981635
+            ],
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P59",
+            "Facility": "Intersection Node",
+            "Service Area": null,
+            "Location": "A24",
+            "Demands": "power",
+            "Coordinates": [
+                -89.91595245197169,
+                35.07245115717697
+            ],
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P60",
+            "Facility": "Intersection Node",
+            "Service Area": null,
+            "Location": "A2",
+            "Demands": "power",
+            "Coordinates": [
+                -89.87740518367724,
+                35.25947679223523
+            ],
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P61",
+            "Facility": "Intersection Node",
+            "Service Area": null,
+            "Location": "A10",
+            "Demands": "power",
+            "Coordinates": [
+                -89.84932754380844,
+                35.2851749710982
+            ],
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P62",
+            "Facility": "Intersection Node",
+            "Service Area": null,
+            "Location": "A2",
+            "Demands": "power",
+            "Coordinates": [
+                -89.70893934446445,
+                35.29516870732269
+            ],
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P63",
+            "Facility": "Intersection Node",
+            "Service Area": null,
+            "Location": "A2",
+            "Demands": "power",
+            "Coordinates": [
+                -89.70798756006212,
+                35.31420439536933
+            ],
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P10",
+            "Facility": "23kv Substation",
+            "Service Area": "A24",
+            "Location": "A24",
+            "Demands": null,
+            "Coordinates": [
+                -89.93451224781717,
+                35.021054799451036
+            ],
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P11",
+            "Facility": "23kv Substation",
+            "Service Area": "A9,A12",
+            "Location": "A12",
+            "Demands": null,
+            "Coordinates": [
+                -89.88597124329823,
+                35.03866281089418
+            ],
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P12",
+            "Facility": "23kv Substation",
+            "Service Area": "A26,A28,A32",
+            "Location": "A28",
+            "Demands": null,
+            "Coordinates": [
+                -89.75652856458106,
+                35.04580119391167
+            ],
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P13",
+            "Facility": "23kv Substation",
+            "Service Area": "A24",
+            "Location": "A24",
+            "Demands": null,
+            "Coordinates": [
+                -89.91595245197169,
+                35.049608331521
+            ],
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P14",
+            "Facility": "23kv Substation",
+            "Service Area": "A5,A27,A28",
+            "Location": "A28",
+            "Demands": null,
+            "Coordinates": [
+                -89.82172579614081,
+                35.050084223722166
+            ],
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P15",
+            "Facility": "23kv Substation",
+            "Service Area": "A24",
+            "Location": "A24",
+            "Demands": null,
+            "Coordinates": [
+                -89.96734880969763,
+                35.06007795994665
+            ],
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P16",
+            "Facility": "23kv Substation",
+            "Service Area": "A1",
+            "Location": "A1",
+            "Demands": null,
+            "Coordinates": [
+                -90.00304072478508,
+                35.06436098975715
+            ],
+            "Infrastructure Type": "power",
+            "if_removed": 1
+        },
+        {
+            "Code": "P17",
+            "Facility": "23kv Substation",
+            "Service Area": "A22",
+            "Location": "A22",
+            "Demands": null,
+            "Coordinates": [
+                -90.05158172930402,
+                35.08958327641895
+            ],
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P18",
+            "Facility": "23kv Substation",
+            "Service Area": "A25",
+            "Location": "A25",
+            "Demands": null,
+            "Coordinates": [
+                -90.13867000211741,
+                35.09291452182711
+            ],
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P19",
+            "Facility": "23kv Substation",
+            "Service Area": "A8",
+            "Location": "A8",
+            "Demands": null,
+            "Coordinates": [
+                -90.06633438754017,
+                35.11147431767259
+            ],
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P20",
+            "Facility": "23kv Substation",
+            "Service Area": "A33",
+            "Location": "A33",
+            "Demands": null,
+            "Coordinates": [
+                -89.96401756428946,
+                35.137172496535555
+            ],
+            "Infrastructure Type": "power",
+            "if_removed": 1
+        },
+        {
+            "Code": "P21",
+            "Facility": "23kv Substation",
+            "Service Area": "A6,A14,A15",
+            "Location": "A15",
+            "Demands": null,
+            "Coordinates": [
+                -89.78317852784636,
+                35.144310879553046
+            ],
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P22",
+            "Facility": "23kv Substation",
+            "Service Area": "A23",
+            "Location": "A23",
+            "Demands": null,
+            "Coordinates": [
+                -89.95164436705915,
+                35.178575118037
+            ],
+            "Infrastructure Type": "power",
+            "if_removed": 1
+        },
+        {
+            "Code": "P23",
+            "Facility": "23kv Substation",
+            "Service Area": "A23",
+            "Location": "A23",
+            "Demands": null,
+            "Coordinates": [
+                -89.9873362821466,
+                35.17809922583584
+            ],
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P24",
+            "Facility": "23kv Substation",
+            "Service Area": "A30",
+            "Location": "A30",
+            "Demands": null,
+            "Coordinates": [
+                -89.82172579614081,
+                35.18999653086499
+            ],
+            "Infrastructure Type": "power",
+            "if_removed": 1
+        },
+        {
+            "Code": "P25",
+            "Facility": "23kv Substation",
+            "Service Area": "A16,A19",
+            "Location": "A16",
+            "Demands": null,
+            "Coordinates": [
+                -89.90310336254021,
+                35.22283309274545
+            ],
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P26",
+            "Facility": "23kv Substation",
+            "Service Area": "A2",
+            "Location": "A2",
+            "Demands": null,
+            "Coordinates": [
+                -89.71179469767145,
+                35.27946426468421
+            ],
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P27",
+            "Facility": "12kv Substation",
+            "Service Area": "A22",
+            "Location": "A22",
+            "Demands": null,
+            "Coordinates": [
+                -90.05015405270052,
+                35.01581998523821
+            ],
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P28",
+            "Facility": "12kv Substation",
+            "Service Area": "A1",
+            "Location": "A1",
+            "Demands": null,
+            "Coordinates": [
+                -90.01588981421656,
+                35.03057264347436
+            ],
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P29",
+            "Facility": "12kv Substation",
+            "Service Area": "A22",
+            "Location": "A22",
+            "Demands": null,
+            "Coordinates": [
+                -90.09488791961013,
+                35.04437351730817
+            ],
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P30",
+            "Facility": "12kv Substation",
+            "Service Area": "A21",
+            "Location": "A21",
+            "Demands": null,
+            "Coordinates": [
+                -89.92356672719035,
+                35.08815559981545
+            ],
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P31",
+            "Facility": "12kv Substation",
+            "Service Area": "A22",
+            "Location": "A22",
+            "Demands": null,
+            "Coordinates": [
+                -90.08203883017865,
+                35.090059168620115
+            ],
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P32",
+            "Facility": "12kv Substation",
+            "Service Area": "A7,A11",
+            "Location": "A7",
+            "Demands": null,
+            "Coordinates": [
+                -89.88026053688424,
+                35.10861896446559
+            ],
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P33",
+            "Facility": "12kv Substation",
+            "Service Area": "A21",
+            "Location": "A21",
+            "Demands": null,
+            "Coordinates": [
+                -89.93308457121367,
+                35.116709131885415
+            ],
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P34",
+            "Facility": "12kv Substation",
+            "Service Area": "A13,A18",
+            "Location": "A18",
+            "Demands": null,
+            "Coordinates": [
+                -90.00732375459557,
+                35.125275191506404
+            ],
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P35",
+            "Facility": "12kv Substation",
+            "Service Area": "A34",
+            "Location": "A34",
+            "Demands": null,
+            "Coordinates": [
+                -90.04872637609702,
+                35.13193768232273
+            ],
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P36",
+            "Facility": "12kv Substation",
+            "Service Area": "A17",
+            "Location": "A17",
+            "Demands": null,
+            "Coordinates": [
+                -90.02873890364805,
+                35.14002784974255
+            ],
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P37",
+            "Facility": "12kv Substation",
+            "Service Area": "A29,A31",
+            "Location": "A29",
+            "Demands": null,
+            "Coordinates": [
+                -90.0434915618842,
+                35.157635861185696
+            ],
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P38",
+            "Facility": "12kv Substation",
+            "Service Area": "A3,A4",
+            "Location": "A4",
+            "Demands": null,
+            "Coordinates": [
+                -89.8878748121029,
+                35.16715370520902
+            ],
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P39",
+            "Facility": "12kv Substation",
+            "Service Area": "A20",
+            "Location": "A20",
+            "Demands": null,
+            "Coordinates": [
+                -90.04587102289003,
+                35.208556326710465
+            ],
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P40",
+            "Facility": "12kv Substation",
+            "Service Area": "A16",
+            "Location": "A16",
+            "Demands": null,
+            "Coordinates": [
+                -89.9621139954848,
+                35.21759827853262
+            ],
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P41",
+            "Facility": "12kv Substation",
+            "Service Area": "A20",
+            "Location": "A20",
+            "Demands": null,
+            "Coordinates": [
+                -89.99495055736526,
+                35.24139288859092
+            ],
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P42",
+            "Facility": "12kv Substation",
+            "Service Area": "A20",
+            "Location": "A20",
+            "Demands": null,
+            "Coordinates": [
+                -89.97972200692794,
+                35.26947052845972
+            ],
+            "Infrastructure Type": "power",
+            "if_removed": 1
+        },
+        {
+            "Code": "P43",
+            "Facility": "12kv Substation",
+            "Service Area": "A10",
+            "Location": "A10",
+            "Demands": null,
+            "Coordinates": [
+                -89.97068005510579,
+                35.27898837248304
+            ],
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P44",
+            "Facility": "12kv Substation",
+            "Service Area": "A10",
+            "Location": "A10",
+            "Demands": null,
+            "Coordinates": [
+                -89.95307204366264,
+                35.28612675550053
+            ],
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P45",
+            "Facility": "12kv Substation",
+            "Service Area": "A10",
+            "Location": "A10",
+            "Demands": null,
+            "Coordinates": [
+                -89.88739891990173,
+                35.33752311322647
+            ],
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "W1",
+            "Facility": "Water Plant",
+            "Service Area": null,
+            "Location": "A28",
+            "Demands": "power",
+            "Coordinates": [
+                -89.8101857,
+                35.011881
+            ],
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "W7",
+            "Facility": "Water Plant",
+            "Service Area": null,
+            "Location": "A26",
+            "Demands": "power",
+            "Coordinates": [
+                -89.65308244,
+                35.1769605
+            ],
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "W10",
+            "Facility": "Water Plant",
+            "Service Area": null,
+            "Location": "A6",
+            "Demands": "power",
+            "Coordinates": [
+                -89.76882122,
+                35.20368955
+            ],
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "W13",
+            "Facility": "Water Plant",
+            "Service Area": null,
+            "Location": "A10",
+            "Demands": "power",
+            "Coordinates": [
+                -90.04502627,
+                35.33225869
+            ],
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "W2",
+            "Facility": "Pumping Station",
+            "Service Area": "A1",
+            "Location": "A1",
+            "Demands": "power",
+            "Coordinates": [
+                -90.00859632,
+                35.00770424
+            ],
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "W3",
+            "Facility": "Pumping Station",
+            "Service Area": "A22",
+            "Location": "A22",
+            "Demands": "power",
+            "Coordinates": [
+                -90.11234067,
+                35.02180111
+            ],
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "W4",
+            "Facility": "Pumping Station",
+            "Service Area": "A9,A12,A28",
+            "Location": "A12",
+            "Demands": "power",
+            "Coordinates": [
+                -89.85519041,
+                35.05794949
+            ],
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "W5",
+            "Facility": "Pumping Station",
+            "Service Area": "A8",
+            "Location": "A8",
+            "Demands": "power",
+            "Coordinates": [
+                -90.02704049,
+                35.09822777
+            ],
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "W6",
+            "Facility": "Pumping Station",
+            "Service Area": "A11,A21",
+            "Location": "A21",
+            "Demands": "power",
+            "Coordinates": [
+                -89.93261512,
+                35.11452367
+            ],
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "W8",
+            "Facility": "Pumping Station",
+            "Service Area": "A18",
+            "Location": "A18",
+            "Demands": "power",
+            "Coordinates": [
+                -90.01727491,
+                35.15262854
+            ],
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "W9",
+            "Facility": "Pumping Station",
+            "Service Area": "A4",
+            "Location": "A4",
+            "Demands": "power",
+            "Coordinates": [
+                -89.86010713,
+                35.18230915
+            ],
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "W11",
+            "Facility": "Pumping Station",
+            "Service Area": "A16",
+            "Location": "A16",
+            "Demands": "power",
+            "Coordinates": [
+                -89.95855469,
+                35.24135133
+            ],
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "W12",
+            "Facility": "Pumping Station",
+            "Service Area": "A2",
+            "Location": "A2",
+            "Demands": "power",
+            "Coordinates": [
+                -89.69490791,
+                35.32706033
+            ],
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "W14",
+            "Facility": "Pumping Station",
+            "Service Area": "A10",
+            "Location": "A10",
+            "Demands": "power",
+            "Coordinates": [
+                -89.73790176,
+                35.37666645
+            ],
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "W15",
+            "Facility": "Pumping Station",
+            "Service Area": "A10",
+            "Location": "A10",
+            "Demands": "power",
+            "Coordinates": [
+                -89.82476916,
+                35.37649025
+            ],
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "W16",
+            "Facility": "Regional Pumping Station",
+            "Service Area": "A24",
+            "Location": "A24",
+            "Demands": "power",
+            "Coordinates": [
+                -89.92683617,
+                35.02370357
+            ],
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "W17",
+            "Facility": "Regional Pumping Station",
+            "Service Area": "A26",
+            "Location": "A26",
+            "Demands": "power",
+            "Coordinates": [
+                -89.70766587,
+                35.01183659
+            ],
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "W18",
+            "Facility": "Regional Pumping Station",
+            "Service Area": "A24",
+            "Location": "A24",
+            "Demands": "power",
+            "Coordinates": [
+                -89.92745084,
+                35.05474076
+            ],
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "W19",
+            "Facility": "Regional Pumping Station",
+            "Service Area": "A24",
+            "Location": "A24",
+            "Demands": "power",
+            "Coordinates": [
+                -89.98103669,
+                35.06373939
+            ],
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "W20",
+            "Facility": "Regional Pumping Station",
+            "Service Area": "A1",
+            "Location": "A1",
+            "Demands": "power",
+            "Coordinates": [
+                -90.03042814,
+                35.06263404
+            ],
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "W21",
+            "Facility": "Regional Pumping Station",
+            "Service Area": "A22,A25",
+            "Location": "A22",
+            "Demands": "power",
+            "Coordinates": [
+                -90.14341551,
+                35.08098885
+            ],
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "W22",
+            "Facility": "Regional Pumping Station",
+            "Service Area": "A8",
+            "Location": "A8",
+            "Demands": "power",
+            "Coordinates": [
+                -90.06784033,
+                35.11231206
+            ],
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "W23",
+            "Facility": "Regional Pumping Station",
+            "Service Area": "A13",
+            "Location": "A13",
+            "Demands": "power",
+            "Coordinates": [
+                -89.98601804,
+                35.10791707
+            ],
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "W24",
+            "Facility": "Regional Pumping Station",
+            "Service Area": "A14",
+            "Location": "A14",
+            "Demands": "power",
+            "Coordinates": [
+                -89.66221391668546,
+                35.11541550322244
+            ],
+            "Infrastructure Type": "water",
+            "if_removed": 1
+        },
+        {
+            "Code": "W25",
+            "Facility": "Regional Pumping Station",
+            "Service Area": "A5,A7",
+            "Location": "A5",
+            "Demands": "power",
+            "Coordinates": [
+                -89.86156562,
+                35.10044297
+            ],
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "W26",
+            "Facility": "Regional Pumping Station",
+            "Service Area": "A15,A32",
+            "Location": "A15",
+            "Demands": "power",
+            "Coordinates": [
+                -89.7350963,
+                35.12399089
+            ],
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "W27",
+            "Facility": "Regional Pumping Station",
+            "Service Area": "A18,A34",
+            "Location": "A18",
+            "Demands": "power",
+            "Coordinates": [
+                -90.02293201,
+                35.127798
+            ],
+            "Infrastructure Type": "water",
+            "if_removed": 1
+        },
+        {
+            "Code": "W28",
+            "Facility": "Regional Pumping Station",
+            "Service Area": "A15,A27",
+            "Location": "A15",
+            "Demands": "power",
+            "Coordinates": [
+                -89.78479894,
+                35.13230478
+            ],
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "W29",
+            "Facility": "Regional Pumping Station",
+            "Service Area": "A17,A29,A31",
+            "Location": "A29",
+            "Demands": "power",
+            "Coordinates": [
+                -90.03318903,
+                35.15542381
+            ],
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "W30",
+            "Facility": "Regional Pumping Station",
+            "Service Area": "A6",
+            "Location": "A6",
+            "Demands": "power",
+            "Coordinates": [
+                -89.74608324,
+                35.16004019
+            ],
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "W31",
+            "Facility": "Regional Pumping Station",
+            "Service Area": "A3,A23,A33",
+            "Location": "A3",
+            "Demands": "power",
+            "Coordinates": [
+                -89.94971131,
+                35.14533183
+            ],
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "W32",
+            "Facility": "Regional Pumping Station",
+            "Service Area": "A14",
+            "Location": "A14",
+            "Demands": "power",
+            "Coordinates": [
+                -89.65750269,
+                35.20729453
+            ],
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "W33",
+            "Facility": "Regional Pumping Station",
+            "Service Area": "A20",
+            "Location": "A20",
+            "Demands": "power",
+            "Coordinates": [
+                -90.01565482,
+                35.23400242
+            ],
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "W34",
+            "Facility": "Regional Pumping Station",
+            "Service Area": "A20",
+            "Location": "A20",
+            "Demands": "power",
+            "Coordinates": [
+                -89.97776674,
+                35.23164731
+            ],
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "W35",
+            "Facility": "Regional Pumping Station",
+            "Service Area": "A19,A30",
+            "Location": "A19",
+            "Demands": "power",
+            "Coordinates": [
+                -89.84746817,
+                35.22648628
+            ],
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "W36",
+            "Facility": "Regional Pumping Station",
+            "Service Area": "A2",
+            "Location": "A2",
+            "Demands": "power",
+            "Coordinates": [
+                -89.7380697,
+                35.27529715
+            ],
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "W37",
+            "Facility": "Regional Pumping Station",
+            "Service Area": "A20",
+            "Location": "A20",
+            "Demands": "power",
+            "Coordinates": [
+                -90.01740756,
+                35.26053609
+            ],
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "W38",
+            "Facility": "Regional Pumping Station",
+            "Service Area": "A2",
+            "Location": "A2",
+            "Demands": "power",
+            "Coordinates": [
+                -89.76836687507684,
+                35.30619314262971
+            ],
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "W39",
+            "Facility": "Regional Pumping Station",
+            "Service Area": "A10",
+            "Location": "A10",
+            "Demands": "power",
+            "Coordinates": [
+                -89.93270655,
+                35.26910016
+            ],
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "W40",
+            "Facility": "Regional Pumping Station",
+            "Service Area": "A2",
+            "Location": "A2",
+            "Demands": "power",
+            "Coordinates": [
+                -89.80377706,
+                35.29615531
+            ],
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "W41",
+            "Facility": "Regional Pumping Station",
+            "Service Area": "A2",
+            "Location": "A2",
+            "Demands": "power",
+            "Coordinates": [
+                -89.75848284,
+                35.33466442
+            ],
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "W42",
+            "Facility": "Regional Pumping Station",
+            "Service Area": "A10",
+            "Location": "A10",
+            "Demands": "power",
+            "Coordinates": [
+                -89.82262603,
+                35.34489932
+            ],
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "W43",
+            "Facility": "Regional Pumping Station",
+            "Service Area": "A10",
+            "Location": "A10",
+            "Demands": "power",
+            "Coordinates": [
+                -89.95678774,
+                35.35644957
+            ],
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "W44",
+            "Facility": "Regional Pumping Station",
+            "Service Area": "A10",
+            "Location": "A10",
+            "Demands": "power",
+            "Coordinates": [
+                -89.91259467,
+                35.34633922
+            ],
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "W45",
+            "Facility": "Regional Pumping Station",
+            "Service Area": "A10",
+            "Location": "A10",
+            "Demands": "power",
+            "Coordinates": [
+                -89.94969084,
+                35.36866126
+            ],
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "W46",
+            "Facility": "Regional Pumping Station",
+            "Service Area": "A10",
+            "Location": "A10",
+            "Demands": "power",
+            "Coordinates": [
+                -89.91343946,
+                35.36384787
+            ],
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "W47",
+            "Facility": "Regional Pumping Station",
+            "Service Area": "A10",
+            "Location": "A10",
+            "Demands": "power",
+            "Coordinates": [
+                -89.95239691,
+                35.38588648
+            ],
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "W48",
+            "Facility": "Regional Pumping Station",
+            "Service Area": "A10",
+            "Location": "A10",
+            "Demands": "power",
+            "Coordinates": [
+                -89.91047588,
+                35.38669926
+            ],
+            "Infrastructure Type": "water",
+            "if_removed": 1
+        },
+        {
+            "Code": "W49",
+            "Facility": "Regional Pumping Station",
+            "Service Area": "A2",
+            "Location": "A2",
+            "Demands": "power",
+            "Coordinates": [
+                -89.67219871,
+                35.38030169
+            ],
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        }
+    ],
+    "edges": [
+        {
+            "Code": "Gas_L1",
+            "Start": "G1",
+            "End": "G4",
+            "Infrastructure Type": "gas",
+            "if_removed": 0
+        },
+        {
+            "Code": "Gas_L2",
+            "Start": "G1",
+            "End": "G6",
+            "Infrastructure Type": "gas",
+            "if_removed": 0
+        },
+        {
+            "Code": "Gas_L3",
+            "Start": "G1",
+            "End": "G10",
+            "Infrastructure Type": "gas",
+            "if_removed": 0
+        },
+        {
+            "Code": "Gas_L4",
+            "Start": "G10",
+            "End": "G12",
+            "Infrastructure Type": "gas",
+            "if_removed": 0
+        },
+        {
+            "Code": "Gas_L5",
+            "Start": "G10",
+            "End": "G14",
+            "Infrastructure Type": "gas",
+            "if_removed": 0
+        },
+        {
+            "Code": "Gas_L6",
+            "Start": "G14",
+            "End": "G12",
+            "Infrastructure Type": "gas",
+            "if_removed": 0
+        },
+        {
+            "Code": "Gas_L7",
+            "Start": "G3",
+            "End": "G14",
+            "Infrastructure Type": "gas",
+            "if_removed": 0
+        },
+        {
+            "Code": "Gas_L8",
+            "Start": "G3",
+            "End": "G16",
+            "Infrastructure Type": "gas",
+            "if_removed": 0
+        },
+        {
+            "Code": "Gas_L9",
+            "Start": "G16",
+            "End": "G13",
+            "Infrastructure Type": "gas",
+            "if_removed": 0
+        },
+        {
+            "Code": "Gas_L10",
+            "Start": "G16",
+            "End": "G11",
+            "Infrastructure Type": "gas",
+            "if_removed": 0
+        },
+        {
+            "Code": "Gas_L11",
+            "Start": "G2",
+            "End": "G15",
+            "Infrastructure Type": "gas",
+            "if_removed": 0
+        },
+        {
+            "Code": "Gas_L12",
+            "Start": "G15",
+            "End": "G11",
+            "Infrastructure Type": "gas",
+            "if_removed": 0
+        },
+        {
+            "Code": "Gas_L13",
+            "Start": "G15",
+            "End": "G9",
+            "Infrastructure Type": "gas",
+            "if_removed": 0
+        },
+        {
+            "Code": "Gas_L14",
+            "Start": "G15",
+            "End": "G8",
+            "Infrastructure Type": "gas",
+            "if_removed": 0
+        },
+        {
+            "Code": "Gas_L15",
+            "Start": "G8",
+            "End": "G7",
+            "Infrastructure Type": "gas",
+            "if_removed": 0
+        },
+        {
+            "Code": "Gas_L16",
+            "Start": "G7",
+            "End": "G5",
+            "Infrastructure Type": "gas",
+            "if_removed": 0
+        },
+        {
+            "Code": "Gas_L17",
+            "Start": "G2",
+            "End": "G10",
+            "Infrastructure Type": "gas",
+            "if_removed": 0
+        },
+        {
+            "Code": "Power_L1",
+            "Start": "P51",
+            "End": "P55",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "Power_L2",
+            "Start": "P10",
+            "End": "P55",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "Power_L3",
+            "Start": "P51",
+            "End": "P29",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "Power_L4",
+            "Start": "P1",
+            "End": "P51",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "Power_L5",
+            "Start": "P1",
+            "End": "P18",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "Power_L6",
+            "Start": "P18",
+            "End": "P19",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "Power_L7",
+            "Start": "P1",
+            "End": "P52",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "Power_L8",
+            "Start": "P16",
+            "End": "P29",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "Power_L9",
+            "Start": "P16",
+            "End": "P28",
+            "Infrastructure Type": "power",
+            "if_removed": 1
+        },
+        {
+            "Code": "Power_L10",
+            "Start": "P10",
+            "End": "P11",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "Power_L11",
+            "Start": "P13",
+            "End": "P10",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "Power_L12",
+            "Start": "P13",
+            "End": "P11",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "Power_L13",
+            "Start": "P14",
+            "End": "P12",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "Power_L14",
+            "Start": "P5",
+            "End": "P12",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "Power_L15",
+            "Start": "P5",
+            "End": "P21",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "Power_L16",
+            "Start": "P5",
+            "End": "P26",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "Power_L17",
+            "Start": "P9",
+            "End": "P63",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "Power_L18",
+            "Start": "P63",
+            "End": "P62",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "Power_L19",
+            "Start": "P61",
+            "End": "P62",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "Power_L20",
+            "Start": "P8",
+            "End": "P63",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "Power_L21",
+            "Start": "P9",
+            "End": "P8",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "Power_L22",
+            "Start": "P8",
+            "End": "P61",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "Power_L23",
+            "Start": "P8",
+            "End": "P45",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "Power_L24",
+            "Start": "P44",
+            "End": "P45",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "Power_L25",
+            "Start": "P42",
+            "End": "P39",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "Power_L26",
+            "Start": "P4",
+            "End": "P39",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "Power_L27",
+            "Start": "P7",
+            "End": "P40",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "Power_L28",
+            "Start": "P7",
+            "End": "P25",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "Power_L29",
+            "Start": "P60",
+            "End": "P25",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "Power_L30",
+            "Start": "P6",
+            "End": "P25",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "Power_L31",
+            "Start": "P5",
+            "End": "P24",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "Power_L32",
+            "Start": "P6",
+            "End": "P24",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "Power_L33",
+            "Start": "P38",
+            "End": "P32",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "Power_L34",
+            "Start": "P6",
+            "End": "P38",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "Power_L35",
+            "Start": "P32",
+            "End": "P33",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "Power_L36",
+            "Start": "P16",
+            "End": "P56",
+            "Infrastructure Type": "power",
+            "if_removed": 1
+        },
+        {
+            "Code": "Power_L37",
+            "Start": "P56",
+            "End": "P57",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "Power_L38",
+            "Start": "P3",
+            "End": "P56",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "Power_L39",
+            "Start": "P3",
+            "End": "P16",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "Power_L40",
+            "Start": "P3",
+            "End": "P19",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "Power_L41",
+            "Start": "P19",
+            "End": "P55",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "Power_L42",
+            "Start": "P3",
+            "End": "P54",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "Power_L43",
+            "Start": "P22",
+            "End": "P20",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "Power_L44",
+            "Start": "P50",
+            "End": "P49",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "Power_L45",
+            "Start": "P49",
+            "End": "P23",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "Power_L46",
+            "Start": "P2",
+            "End": "P59",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "Power_L47",
+            "Start": "P59",
+            "End": "P58",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "Power_L48",
+            "Start": "P59",
+            "End": "P13",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "Power_L49",
+            "Start": "P2",
+            "End": "P14",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "Power_L50",
+            "Start": "P2",
+            "End": "P21",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "Power_L51",
+            "Start": "P61",
+            "End": "P60",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "Power_L52",
+            "Start": "P60",
+            "End": "P47",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "Power_L53",
+            "Start": "P47",
+            "End": "P40",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "Power_L54",
+            "Start": "P4",
+            "End": "P48",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "Power_L55",
+            "Start": "P48",
+            "End": "P40",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "Power_L56",
+            "Start": "P4",
+            "End": "P39",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "Power_L57",
+            "Start": "P37",
+            "End": "P35",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "Power_L58",
+            "Start": "P4",
+            "End": "P37",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "Power_L59",
+            "Start": "P4",
+            "End": "P36",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "Power_L60",
+            "Start": "P55",
+            "End": "P27",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "Power_L61",
+            "Start": "P52",
+            "End": "P31",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "Power_L62",
+            "Start": "P53",
+            "End": "P52",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "Power_L63",
+            "Start": "P53",
+            "End": "P54",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "Power_L64",
+            "Start": "P54",
+            "End": "P17",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "Power_L65",
+            "Start": "P19",
+            "End": "P35",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "Power_L66",
+            "Start": "P7",
+            "End": "P44",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "Power_L67",
+            "Start": "P7",
+            "End": "P43",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "Power_L68",
+            "Start": "P7",
+            "End": "P42",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "Power_L69",
+            "Start": "P7",
+            "End": "P46",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "Power_L70",
+            "Start": "P46",
+            "End": "P41",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "Power_L71",
+            "Start": "P3",
+            "End": "P34",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "Power_L72",
+            "Start": "P34",
+            "End": "P36",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "Power_L73",
+            "Start": "P6",
+            "End": "P50",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "Power_L74",
+            "Start": "P50",
+            "End": "P22",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "Power_L75",
+            "Start": "P56",
+            "End": "P15",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "Power_L76",
+            "Start": "P55",
+            "End": "P57",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "Power_L77",
+            "Start": "P55",
+            "End": "P30",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "Power_L78",
+            "Start": "P57",
+            "End": "P33",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "Power_L79",
+            "Start": "P62",
+            "End": "P26",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "Power_L80",
+            "Start": "P48",
+            "End": "P49",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "Water_L1",
+            "Start": "W3",
+            "End": "W21",
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "Water_L2",
+            "Start": "W2",
+            "End": "W3",
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "Water_L3",
+            "Start": "W2",
+            "End": "W16",
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "Water_L4",
+            "Start": "W1",
+            "End": "W16",
+            "Infrastructure Type": "water",
+            "if_removed": 1
+        },
+        {
+            "Code": "Water_L5",
+            "Start": "W1",
+            "End": "W17",
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "Water_L6",
+            "Start": "W1",
+            "End": "W4",
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "Water_L7",
+            "Start": "W2",
+            "End": "W20",
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "Water_L8",
+            "Start": "W20",
+            "End": "W21",
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "Water_L9",
+            "Start": "W16",
+            "End": "W18",
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "Water_L10",
+            "Start": "W18",
+            "End": "W19",
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "Water_L11",
+            "Start": "W20",
+            "End": "W19",
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "Water_L12",
+            "Start": "W5",
+            "End": "W20",
+            "Infrastructure Type": "water",
+            "if_removed": 1
+        },
+        {
+            "Code": "Water_L13",
+            "Start": "W23",
+            "End": "W19",
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "Water_L14",
+            "Start": "W5",
+            "End": "W23",
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "Water_L15",
+            "Start": "W5",
+            "End": "W22",
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "Water_L16",
+            "Start": "W5",
+            "End": "W27",
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "Water_L17",
+            "Start": "W29",
+            "End": "W22",
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "Water_L18",
+            "Start": "W29",
+            "End": "W33",
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "Water_L19",
+            "Start": "W37",
+            "End": "W33",
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "Water_L20",
+            "Start": "W37",
+            "End": "W39",
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "Water_L21",
+            "Start": "W13",
+            "End": "W37",
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "Water_L22",
+            "Start": "W34",
+            "End": "W33",
+            "Infrastructure Type": "water",
+            "if_removed": 1
+        },
+        {
+            "Code": "Water_L23",
+            "Start": "W11",
+            "End": "W34",
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "Water_L24",
+            "Start": "W8",
+            "End": "W29",
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "Water_L25",
+            "Start": "W8",
+            "End": "W34",
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "Water_L26",
+            "Start": "W11",
+            "End": "W39",
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "Water_L27",
+            "Start": "W39",
+            "End": "W40",
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "Water_L28",
+            "Start": "W13",
+            "End": "W43",
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "Water_L29",
+            "Start": "W44",
+            "End": "W43",
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "Water_L30",
+            "Start": "W45",
+            "End": "W47",
+            "Infrastructure Type": "water",
+            "if_removed": 1
+        },
+        {
+            "Code": "Water_L31",
+            "Start": "W48",
+            "End": "W47",
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "Water_L32",
+            "Start": "W15",
+            "End": "W46",
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "Water_L33",
+            "Start": "W46",
+            "End": "W48",
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "Water_L34",
+            "Start": "W46",
+            "End": "W44",
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "Water_L35",
+            "Start": "W15",
+            "End": "W46",
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "Water_L36",
+            "Start": "W15",
+            "End": "W42",
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "Water_L37",
+            "Start": "W15",
+            "End": "W14",
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "Water_L38",
+            "Start": "W14",
+            "End": "W41",
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "Water_L39",
+            "Start": "W41",
+            "End": "W38",
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "Water_L40",
+            "Start": "W12",
+            "End": "W41",
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "Water_L41",
+            "Start": "W12",
+            "End": "W38",
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "Water_L42",
+            "Start": "W12",
+            "End": "W49",
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "Water_L43",
+            "Start": "W14",
+            "End": "W49",
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "Water_L44",
+            "Start": "W32",
+            "End": "W36",
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "Water_L45",
+            "Start": "W10",
+            "End": "W32",
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "Water_L46",
+            "Start": "W7",
+            "End": "W32",
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "Water_L47",
+            "Start": "W7",
+            "End": "W24",
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "Water_L48",
+            "Start": "W7",
+            "End": "W30",
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "Water_L49",
+            "Start": "W26",
+            "End": "W24",
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "Water_L50",
+            "Start": "W30",
+            "End": "W26",
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "Water_L51",
+            "Start": "W10",
+            "End": "W30",
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "Water_L52",
+            "Start": "W10",
+            "End": "W28",
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "Water_L53",
+            "Start": "W9",
+            "End": "W28",
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "Water_L54",
+            "Start": "W10",
+            "End": "W9",
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "Water_L55",
+            "Start": "W28",
+            "End": "W26",
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "Water_L56",
+            "Start": "W4",
+            "End": "W26",
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "Water_L57",
+            "Start": "W4",
+            "End": "W25",
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "Water_L58",
+            "Start": "W9",
+            "End": "W25",
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "Water_L59",
+            "Start": "W6",
+            "End": "W25",
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "Water_L60",
+            "Start": "W6",
+            "End": "W31",
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "Water_L61",
+            "Start": "W6",
+            "End": "W18",
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "Water_L62",
+            "Start": "W4",
+            "End": "W18",
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "Water_L63",
+            "Start": "W6",
+            "End": "W27",
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "Water_L64",
+            "Start": "W6",
+            "End": "W23",
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "Water_L65",
+            "Start": "W8",
+            "End": "W31",
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "Water_L66",
+            "Start": "W11",
+            "End": "W31",
+            "Infrastructure Type": "water",
+            "if_removed": 1
+        },
+        {
+            "Code": "Water_L67",
+            "Start": "W9",
+            "End": "W31",
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "Water_L68",
+            "Start": "W9",
+            "End": "W35",
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "Water_L69",
+            "Start": "W11",
+            "End": "W35",
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "Water_L70",
+            "Start": "W45",
+            "End": "W43",
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "Water_L71",
+            "Start": "W8",
+            "End": "W27",
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "P17_G1",
+            "Start": "P17",
+            "End": "G1",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P21_G2",
+            "Start": "P21",
+            "End": "G2",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P26_G3",
+            "Start": "P26",
+            "End": "G3",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P16_G4",
+            "Start": "P16",
+            "End": "G4",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P14_G5",
+            "Start": "P14",
+            "End": "G5",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P17_G6",
+            "Start": "P17",
+            "End": "G6",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P12_G7",
+            "Start": "P12",
+            "End": "G7",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P21_G8",
+            "Start": "P21",
+            "End": "G8",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P21_G9",
+            "Start": "P21",
+            "End": "G9",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P38_G10",
+            "Start": "P38",
+            "End": "G10",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P26_G11",
+            "Start": "P26",
+            "End": "G11",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P43_G12",
+            "Start": "P43",
+            "End": "G12",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P26_G13",
+            "Start": "P26",
+            "End": "G13",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P43_G14",
+            "Start": "P43",
+            "End": "G14",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P25_P50",
+            "Start": "P25",
+            "End": "P50",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P17_P51",
+            "Start": "P17",
+            "End": "P51",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P17_P52",
+            "Start": "P17",
+            "End": "P52",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P17_P53",
+            "Start": "P17",
+            "End": "P53",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P16_P54",
+            "Start": "P16",
+            "End": "P54",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P17_P55",
+            "Start": "P17",
+            "End": "P55",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P10_P56",
+            "Start": "P10",
+            "End": "P56",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P10_P57",
+            "Start": "P10",
+            "End": "P57",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P10_P58",
+            "Start": "P10",
+            "End": "P58",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P10_P59",
+            "Start": "P10",
+            "End": "P59",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P26_P60",
+            "Start": "P26",
+            "End": "P60",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P43_P61",
+            "Start": "P43",
+            "End": "P61",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P26_P62",
+            "Start": "P26",
+            "End": "P62",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P26_P63",
+            "Start": "P26",
+            "End": "P63",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P12_W1",
+            "Start": "P12",
+            "End": "W1",
+            "Infrastructure Type": "power",
+            "if_removed": 1
+        },
+        {
+            "Code": "P12_W7",
+            "Start": "P12",
+            "End": "W7",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P21_W10",
+            "Start": "P21",
+            "End": "W10",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P43_W13",
+            "Start": "P43",
+            "End": "W13",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P16_W2",
+            "Start": "P16",
+            "End": "W2",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P17_W3",
+            "Start": "P17",
+            "End": "W3",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P11_W4",
+            "Start": "P11",
+            "End": "W4",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P19_W5",
+            "Start": "P19",
+            "End": "W5",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P30_W6",
+            "Start": "P30",
+            "End": "W6",
+            "Infrastructure Type": "power",
+            "if_removed": 1
+        },
+        {
+            "Code": "P34_W8",
+            "Start": "P34",
+            "End": "W8",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P38_W9",
+            "Start": "P38",
+            "End": "W9",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P25_W11",
+            "Start": "P25",
+            "End": "W11",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P26_W12",
+            "Start": "P26",
+            "End": "W12",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P43_W14",
+            "Start": "P43",
+            "End": "W14",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P43_W15",
+            "Start": "P43",
+            "End": "W15",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P10_W16",
+            "Start": "P10",
+            "End": "W16",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P12_W17",
+            "Start": "P12",
+            "End": "W17",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P10_W18",
+            "Start": "P10",
+            "End": "W18",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P10_W19",
+            "Start": "P10",
+            "End": "W19",
+            "Infrastructure Type": "power",
+            "if_removed": 1
+        },
+        {
+            "Code": "P16_W20",
+            "Start": "P16",
+            "End": "W20",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P17_W21",
+            "Start": "P17",
+            "End": "W21",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P19_W22",
+            "Start": "P19",
+            "End": "W22",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P34_W23",
+            "Start": "P34",
+            "End": "W23",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P21_W24",
+            "Start": "P21",
+            "End": "W24",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P14_W25",
+            "Start": "P14",
+            "End": "W25",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P21_W26",
+            "Start": "P21",
+            "End": "W26",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P34_W27",
+            "Start": "P34",
+            "End": "W27",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P21_W28",
+            "Start": "P21",
+            "End": "W28",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P37_W29",
+            "Start": "P37",
+            "End": "W29",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P21_W30",
+            "Start": "P21",
+            "End": "W30",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P38_W31",
+            "Start": "P38",
+            "End": "W31",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P21_W32",
+            "Start": "P21",
+            "End": "W32",
+            "Infrastructure Type": "power",
+            "if_removed": 1
+        },
+        {
+            "Code": "P39_W33",
+            "Start": "P39",
+            "End": "W33",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P39_W34",
+            "Start": "P39",
+            "End": "W34",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P25_W35",
+            "Start": "P25",
+            "End": "W35",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P26_W36",
+            "Start": "P26",
+            "End": "W36",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P39_W37",
+            "Start": "P39",
+            "End": "W37",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P26_W38",
+            "Start": "P26",
+            "End": "W38",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P43_W39",
+            "Start": "P43",
+            "End": "W39",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P26_W40",
+            "Start": "P26",
+            "End": "W40",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P26_W41",
+            "Start": "P26",
+            "End": "W41",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P43_W42",
+            "Start": "P43",
+            "End": "W42",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P43_W43",
+            "Start": "P43",
+            "End": "W43",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P43_W44",
+            "Start": "P43",
+            "End": "W44",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P43_W45",
+            "Start": "P43",
+            "End": "W45",
+            "Infrastructure Type": "power",
+            "if_removed": 1
+        },
+        {
+            "Code": "P43_W46",
+            "Start": "P43",
+            "End": "W46",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P43_W47",
+            "Start": "P43",
+            "End": "W47",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P43_W48",
+            "Start": "P43",
+            "End": "W48",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "P26_W49",
+            "Start": "P26",
+            "End": "W49",
+            "Infrastructure Type": "power",
+            "if_removed": 0
+        },
+        {
+            "Code": "G6_P1",
+            "Start": "G6",
+            "End": "P1",
+            "Infrastructure Type": "gas",
+            "if_removed": 0
+        },
+        {
+            "Code": "G5_P2",
+            "Start": "G5",
+            "End": "P2",
+            "Infrastructure Type": "gas",
+            "if_removed": 0
+        },
+        {
+            "Code": "G8_P5",
+            "Start": "G8",
+            "End": "P5",
+            "Infrastructure Type": "gas",
+            "if_removed": 0
+        },
+        {
+            "Code": "G12_P6",
+            "Start": "G12",
+            "End": "P6",
+            "Infrastructure Type": "gas",
+            "if_removed": 0
+        },
+        {
+            "Code": "G12_P7",
+            "Start": "G12",
+            "End": "P7",
+            "Infrastructure Type": "gas",
+            "if_removed": 0
+        },
+        {
+            "Code": "W3_P1",
+            "Start": "W3",
+            "End": "P1",
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "W4_P2",
+            "Start": "W4",
+            "End": "P2",
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "W30_P5",
+            "Start": "W30",
+            "End": "P5",
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "W11_P6",
+            "Start": "W11",
+            "End": "P6",
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        },
+        {
+            "Code": "W14_P7",
+            "Start": "W14",
+            "End": "P7",
+            "Infrastructure Type": "water",
+            "if_removed": 0
+        }
+    ]
+}

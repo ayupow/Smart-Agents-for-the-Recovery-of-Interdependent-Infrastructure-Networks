@@ -1,0 +1,16 @@
+{
+    "network_shapefiles": [
+        {
+            "points": "gas_nodes.shp",
+            "lines": "gas_pipeline.shp"
+        },
+        {
+            "points": "power_nodes.shp",
+            "lines": "power_pipeline.shp"
+        },
+                {
+            "points": "water_nodes.shp",
+            "lines": "water_pipeline.shp"
+        }
+    ]
+}

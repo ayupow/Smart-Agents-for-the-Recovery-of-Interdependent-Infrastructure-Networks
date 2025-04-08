@@ -1,0 +1,2625 @@
+﻿[
+  {
+    "p": {
+      "start": {
+        "identity": 67,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "convert_shpfile_to_network"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:67"
+      },
+      "end": {
+        "identity": 68,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "generate_interdependent_infrastrcuture_networks_using_service_areas"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:68"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 67,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "convert_shpfile_to_network"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:67"
+          },
+          "relationship": {
+            "identity": 1152931400211497027,
+            "start": 67,
+            "end": 68,
+            "type": "provides_input_to",
+            "properties": {
+
+            },
+            "elementId": "5:25fa950a-1e06-4197-9314-195922a1a748:1152931400211497027",
+            "startNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:67",
+            "endNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:68"
+          },
+          "end": {
+            "identity": 68,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "generate_interdependent_infrastrcuture_networks_using_service_areas"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:68"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 68,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "generate_interdependent_infrastrcuture_networks_using_service_areas"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:68"
+      },
+      "end": {
+        "identity": 57,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "resilience_assessment_by_average_path_length"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:57"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 68,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "generate_interdependent_infrastrcuture_networks_using_service_areas"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:68"
+          },
+          "relationship": {
+            "identity": 6917538923245731897,
+            "start": 68,
+            "end": 57,
+            "type": "provides_input_to",
+            "properties": {
+
+            },
+            "elementId": "5:25fa950a-1e06-4197-9314-195922a1a748:6917538923245731897",
+            "startNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:68",
+            "endNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:57"
+          },
+          "end": {
+            "identity": 57,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "resilience_assessment_by_average_path_length"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:57"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 68,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "generate_interdependent_infrastrcuture_networks_using_service_areas"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:68"
+      },
+      "end": {
+        "identity": 58,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "resilience_assessment_by_connectivily"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:58"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 68,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "generate_interdependent_infrastrcuture_networks_using_service_areas"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:68"
+          },
+          "relationship": {
+            "identity": 1168693998907293764,
+            "start": 68,
+            "end": 58,
+            "type": "provides_input_to",
+            "properties": {
+
+            },
+            "elementId": "5:25fa950a-1e06-4197-9314-195922a1a748:1168693998907293764",
+            "startNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:68",
+            "endNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:58"
+          },
+          "end": {
+            "identity": 58,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "resilience_assessment_by_connectivily"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:58"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 68,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "generate_interdependent_infrastrcuture_networks_using_service_areas"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:68"
+      },
+      "end": {
+        "identity": 59,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "resilience_assessment_by_diameter"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:59"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 68,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "generate_interdependent_infrastrcuture_networks_using_service_areas"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:68"
+          },
+          "relationship": {
+            "identity": 1170945798720979012,
+            "start": 68,
+            "end": 59,
+            "type": "provides_input_to",
+            "properties": {
+
+            },
+            "elementId": "5:25fa950a-1e06-4197-9314-195922a1a748:1170945798720979012",
+            "startNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:68",
+            "endNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:59"
+          },
+          "end": {
+            "identity": 59,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "resilience_assessment_by_diameter"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:59"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 68,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "generate_interdependent_infrastrcuture_networks_using_service_areas"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:68"
+      },
+      "end": {
+        "identity": 60,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "resilience_assessment_by_global_efficiency"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:60"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 68,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "generate_interdependent_infrastrcuture_networks_using_service_areas"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:68"
+          },
+          "relationship": {
+            "identity": 1173197598534664260,
+            "start": 68,
+            "end": 60,
+            "type": "provides_input_to",
+            "properties": {
+
+            },
+            "elementId": "5:25fa950a-1e06-4197-9314-195922a1a748:1173197598534664260",
+            "startNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:68",
+            "endNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:60"
+          },
+          "end": {
+            "identity": 60,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "resilience_assessment_by_global_efficiency"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:60"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 68,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "generate_interdependent_infrastrcuture_networks_using_service_areas"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:68"
+      },
+      "end": {
+        "identity": 61,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "resilience_assessment_by_node_reachability"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:61"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 68,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "generate_interdependent_infrastrcuture_networks_using_service_areas"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:68"
+          },
+          "relationship": {
+            "identity": 6917538923245731901,
+            "start": 68,
+            "end": 61,
+            "type": "provides_input_to",
+            "properties": {
+
+            },
+            "elementId": "5:25fa950a-1e06-4197-9314-195922a1a748:6917538923245731901",
+            "startNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:68",
+            "endNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:61"
+          },
+          "end": {
+            "identity": 61,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "resilience_assessment_by_node_reachability"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:61"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 68,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "generate_interdependent_infrastrcuture_networks_using_service_areas"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:68"
+      },
+      "end": {
+        "identity": 69,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "measure_facility_importance_using_PageRank"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:69"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 68,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "generate_interdependent_infrastrcuture_networks_using_service_areas"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:68"
+          },
+          "relationship": {
+            "identity": 1152931400211497028,
+            "start": 68,
+            "end": 69,
+            "type": "provides_input_to",
+            "properties": {
+
+            },
+            "elementId": "5:25fa950a-1e06-4197-9314-195922a1a748:1152931400211497028",
+            "startNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:68",
+            "endNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:69"
+          },
+          "end": {
+            "identity": 69,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "measure_facility_importance_using_PageRank"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:69"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 68,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "generate_interdependent_infrastrcuture_networks_using_service_areas"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:68"
+      },
+      "end": {
+        "identity": 70,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "measure_facility_importance_using_kshell_centrality"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:70"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 68,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "generate_interdependent_infrastrcuture_networks_using_service_areas"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:68"
+          },
+          "relationship": {
+            "identity": 1155183200025182276,
+            "start": 68,
+            "end": 70,
+            "type": "provides_input_to",
+            "properties": {
+
+            },
+            "elementId": "5:25fa950a-1e06-4197-9314-195922a1a748:1155183200025182276",
+            "startNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:68",
+            "endNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:70"
+          },
+          "end": {
+            "identity": 70,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "measure_facility_importance_using_kshell_centrality"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:70"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 68,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "generate_interdependent_infrastrcuture_networks_using_service_areas"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:68"
+      },
+      "end": {
+        "identity": 71,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "measure_facility_importance_using_katz_centrality"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:71"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 68,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "generate_interdependent_infrastrcuture_networks_using_service_areas"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:68"
+          },
+          "relationship": {
+            "identity": 1157434999838867524,
+            "start": 68,
+            "end": 71,
+            "type": "provides_input_to",
+            "properties": {
+
+            },
+            "elementId": "5:25fa950a-1e06-4197-9314-195922a1a748:1157434999838867524",
+            "startNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:68",
+            "endNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:71"
+          },
+          "end": {
+            "identity": 71,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "measure_facility_importance_using_katz_centrality"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:71"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 68,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "generate_interdependent_infrastrcuture_networks_using_service_areas"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:68"
+      },
+      "end": {
+        "identity": 72,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "measure_facility_importance_using_degree_centrality"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:72"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 68,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "generate_interdependent_infrastrcuture_networks_using_service_areas"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:68"
+          },
+          "relationship": {
+            "identity": 1159686799652552772,
+            "start": 68,
+            "end": 72,
+            "type": "provides_input_to",
+            "properties": {
+
+            },
+            "elementId": "5:25fa950a-1e06-4197-9314-195922a1a748:1159686799652552772",
+            "startNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:68",
+            "endNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:72"
+          },
+          "end": {
+            "identity": 72,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "measure_facility_importance_using_degree_centrality"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:72"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 68,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "generate_interdependent_infrastrcuture_networks_using_service_areas"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:68"
+      },
+      "end": {
+        "identity": 73,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "measure_facility_importance_using_closeness_centrality"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:73"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 68,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "generate_interdependent_infrastrcuture_networks_using_service_areas"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:68"
+          },
+          "relationship": {
+            "identity": 1161938599466238020,
+            "start": 68,
+            "end": 73,
+            "type": "provides_input_to",
+            "properties": {
+
+            },
+            "elementId": "5:25fa950a-1e06-4197-9314-195922a1a748:1161938599466238020",
+            "startNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:68",
+            "endNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:73"
+          },
+          "end": {
+            "identity": 73,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "measure_facility_importance_using_closeness_centrality"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:73"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 68,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "generate_interdependent_infrastrcuture_networks_using_service_areas"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:68"
+      },
+      "end": {
+        "identity": 74,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "measure_facility_importance_using_betweenness_centrality"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:74"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 68,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "generate_interdependent_infrastrcuture_networks_using_service_areas"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:68"
+          },
+          "relationship": {
+            "identity": 1164190399279923268,
+            "start": 68,
+            "end": 74,
+            "type": "provides_input_to",
+            "properties": {
+
+            },
+            "elementId": "5:25fa950a-1e06-4197-9314-195922a1a748:1164190399279923268",
+            "startNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:68",
+            "endNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:74"
+          },
+          "end": {
+            "identity": 74,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "measure_facility_importance_using_betweenness_centrality"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:74"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 68,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "generate_interdependent_infrastrcuture_networks_using_service_areas"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:68"
+      },
+      "end": {
+        "identity": 90,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "cascading_failure_identification_by_big_nodes_attacks"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:90"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 68,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "generate_interdependent_infrastrcuture_networks_using_service_areas"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:68"
+          },
+          "relationship": {
+            "identity": 1166442199093608516,
+            "start": 68,
+            "end": 90,
+            "type": "provides_input_to",
+            "properties": {
+
+            },
+            "elementId": "5:25fa950a-1e06-4197-9314-195922a1a748:1166442199093608516",
+            "startNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:68",
+            "endNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:90"
+          },
+          "end": {
+            "identity": 90,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "cascading_failure_identification_by_big_nodes_attacks"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:90"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 69,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "measure_facility_importance_using_PageRank"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:69"
+      },
+      "end": {
+        "identity": 83,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "recovery_sequence_using_PageRank"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:83"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 69,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "measure_facility_importance_using_PageRank"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:69"
+          },
+          "relationship": {
+            "identity": 1159686799652552773,
+            "start": 69,
+            "end": 83,
+            "type": "provides_input_to",
+            "properties": {
+
+            },
+            "elementId": "5:25fa950a-1e06-4197-9314-195922a1a748:1159686799652552773",
+            "startNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:69",
+            "endNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:83"
+          },
+          "end": {
+            "identity": 83,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "recovery_sequence_using_PageRank"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:83"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 69,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "measure_facility_importance_using_PageRank"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:69"
+      },
+      "end": {
+        "identity": 90,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "cascading_failure_identification_by_big_nodes_attacks"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:90"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 69,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "measure_facility_importance_using_PageRank"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:69"
+          },
+          "relationship": {
+            "identity": 1164190399279923269,
+            "start": 69,
+            "end": 90,
+            "type": "provides_input_to",
+            "properties": {
+
+            },
+            "elementId": "5:25fa950a-1e06-4197-9314-195922a1a748:1164190399279923269",
+            "startNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:69",
+            "endNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:90"
+          },
+          "end": {
+            "identity": 90,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "cascading_failure_identification_by_big_nodes_attacks"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:90"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 69,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "measure_facility_importance_using_PageRank"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:69"
+      },
+      "end": {
+        "identity": 98,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "resilience_assessment_of_pagerank"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:98"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 69,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "measure_facility_importance_using_PageRank"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:69"
+          },
+          "relationship": {
+            "identity": 1161938599466238021,
+            "start": 69,
+            "end": 98,
+            "type": "provides_input_to",
+            "properties": {
+
+            },
+            "elementId": "5:25fa950a-1e06-4197-9314-195922a1a748:1161938599466238021",
+            "startNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:69",
+            "endNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:98"
+          },
+          "end": {
+            "identity": 98,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "resilience_assessment_of_pagerank"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:98"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 70,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "measure_facility_importance_using_kshell_centrality"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:70"
+      },
+      "end": {
+        "identity": 82,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "recovery_sequence_using_kshell_centrality"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:82"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 70,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "measure_facility_importance_using_kshell_centrality"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:70"
+          },
+          "relationship": {
+            "identity": 1159686799652552774,
+            "start": 70,
+            "end": 82,
+            "type": "provides_input_to",
+            "properties": {
+
+            },
+            "elementId": "5:25fa950a-1e06-4197-9314-195922a1a748:1159686799652552774",
+            "startNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:70",
+            "endNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:82"
+          },
+          "end": {
+            "identity": 82,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "recovery_sequence_using_kshell_centrality"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:82"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 70,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "measure_facility_importance_using_kshell_centrality"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:70"
+      },
+      "end": {
+        "identity": 90,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "cascading_failure_identification_by_big_nodes_attacks"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:90"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 70,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "measure_facility_importance_using_kshell_centrality"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:70"
+          },
+          "relationship": {
+            "identity": 1164190399279923270,
+            "start": 70,
+            "end": 90,
+            "type": "provides_input_to",
+            "properties": {
+
+            },
+            "elementId": "5:25fa950a-1e06-4197-9314-195922a1a748:1164190399279923270",
+            "startNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:70",
+            "endNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:90"
+          },
+          "end": {
+            "identity": 90,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "cascading_failure_identification_by_big_nodes_attacks"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:90"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 70,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "measure_facility_importance_using_kshell_centrality"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:70"
+      },
+      "end": {
+        "identity": 97,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "resilience_assessment_of_kshell"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:97"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 70,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "measure_facility_importance_using_kshell_centrality"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:70"
+          },
+          "relationship": {
+            "identity": 1161938599466238022,
+            "start": 70,
+            "end": 97,
+            "type": "provides_input_to",
+            "properties": {
+
+            },
+            "elementId": "5:25fa950a-1e06-4197-9314-195922a1a748:1161938599466238022",
+            "startNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:70",
+            "endNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:97"
+          },
+          "end": {
+            "identity": 97,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "resilience_assessment_of_kshell"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:97"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 71,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "measure_facility_importance_using_katz_centrality"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:71"
+      },
+      "end": {
+        "identity": 81,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "recovery_sequence_using_katz_centrality"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:81"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 71,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "measure_facility_importance_using_katz_centrality"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:71"
+          },
+          "relationship": {
+            "identity": 1159686799652552775,
+            "start": 71,
+            "end": 81,
+            "type": "provides_input_to",
+            "properties": {
+
+            },
+            "elementId": "5:25fa950a-1e06-4197-9314-195922a1a748:1159686799652552775",
+            "startNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:71",
+            "endNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:81"
+          },
+          "end": {
+            "identity": 81,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "recovery_sequence_using_katz_centrality"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:81"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 71,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "measure_facility_importance_using_katz_centrality"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:71"
+      },
+      "end": {
+        "identity": 90,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "cascading_failure_identification_by_big_nodes_attacks"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:90"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 71,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "measure_facility_importance_using_katz_centrality"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:71"
+          },
+          "relationship": {
+            "identity": 1164190399279923271,
+            "start": 71,
+            "end": 90,
+            "type": "provides_input_to",
+            "properties": {
+
+            },
+            "elementId": "5:25fa950a-1e06-4197-9314-195922a1a748:1164190399279923271",
+            "startNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:71",
+            "endNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:90"
+          },
+          "end": {
+            "identity": 90,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "cascading_failure_identification_by_big_nodes_attacks"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:90"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 71,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "measure_facility_importance_using_katz_centrality"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:71"
+      },
+      "end": {
+        "identity": 96,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "resilience_assessment_of_katz_centrality"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:96"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 71,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "measure_facility_importance_using_katz_centrality"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:71"
+          },
+          "relationship": {
+            "identity": 1161938599466238023,
+            "start": 71,
+            "end": 96,
+            "type": "provides_input_to",
+            "properties": {
+
+            },
+            "elementId": "5:25fa950a-1e06-4197-9314-195922a1a748:1161938599466238023",
+            "startNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:71",
+            "endNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:96"
+          },
+          "end": {
+            "identity": 96,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "resilience_assessment_of_katz_centrality"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:96"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 72,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "measure_facility_importance_using_degree_centrality"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:72"
+      },
+      "end": {
+        "identity": 80,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "recovery_sequence_using_degree_centrality"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:80"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 72,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "measure_facility_importance_using_degree_centrality"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:72"
+          },
+          "relationship": {
+            "identity": 1161938599466238024,
+            "start": 72,
+            "end": 80,
+            "type": "provides_input_to",
+            "properties": {
+
+            },
+            "elementId": "5:25fa950a-1e06-4197-9314-195922a1a748:1161938599466238024",
+            "startNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:72",
+            "endNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:80"
+          },
+          "end": {
+            "identity": 80,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "recovery_sequence_using_degree_centrality"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:80"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 72,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "measure_facility_importance_using_degree_centrality"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:72"
+      },
+      "end": {
+        "identity": 90,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "cascading_failure_identification_by_big_nodes_attacks"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:90"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 72,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "measure_facility_importance_using_degree_centrality"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:72"
+          },
+          "relationship": {
+            "identity": 1166442199093608520,
+            "start": 72,
+            "end": 90,
+            "type": "provides_input_to",
+            "properties": {
+
+            },
+            "elementId": "5:25fa950a-1e06-4197-9314-195922a1a748:1166442199093608520",
+            "startNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:72",
+            "endNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:90"
+          },
+          "end": {
+            "identity": 90,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "cascading_failure_identification_by_big_nodes_attacks"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:90"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 72,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "measure_facility_importance_using_degree_centrality"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:72"
+      },
+      "end": {
+        "identity": 93,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "resilience_assessment_of_degree_centrality"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:93"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 72,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "measure_facility_importance_using_degree_centrality"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:72"
+          },
+          "relationship": {
+            "identity": 1164190399279923272,
+            "start": 72,
+            "end": 93,
+            "type": "provides_input_to",
+            "properties": {
+
+            },
+            "elementId": "5:25fa950a-1e06-4197-9314-195922a1a748:1164190399279923272",
+            "startNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:72",
+            "endNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:93"
+          },
+          "end": {
+            "identity": 93,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "resilience_assessment_of_degree_centrality"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:93"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 73,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "measure_facility_importance_using_closeness_centrality"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:73"
+      },
+      "end": {
+        "identity": 79,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "recovery_sequence_using_closeness_centrality"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:79"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 73,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "measure_facility_importance_using_closeness_centrality"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:73"
+          },
+          "relationship": {
+            "identity": 1159686799652552777,
+            "start": 73,
+            "end": 79,
+            "type": "provides_input_to",
+            "properties": {
+
+            },
+            "elementId": "5:25fa950a-1e06-4197-9314-195922a1a748:1159686799652552777",
+            "startNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:73",
+            "endNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:79"
+          },
+          "end": {
+            "identity": 79,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "recovery_sequence_using_closeness_centrality"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:79"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 73,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "measure_facility_importance_using_closeness_centrality"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:73"
+      },
+      "end": {
+        "identity": 90,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "cascading_failure_identification_by_big_nodes_attacks"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:90"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 73,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "measure_facility_importance_using_closeness_centrality"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:73"
+          },
+          "relationship": {
+            "identity": 1166442199093608521,
+            "start": 73,
+            "end": 90,
+            "type": "provides_input_to",
+            "properties": {
+
+            },
+            "elementId": "5:25fa950a-1e06-4197-9314-195922a1a748:1166442199093608521",
+            "startNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:73",
+            "endNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:90"
+          },
+          "end": {
+            "identity": 90,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "cascading_failure_identification_by_big_nodes_attacks"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:90"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 73,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "measure_facility_importance_using_closeness_centrality"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:73"
+      },
+      "end": {
+        "identity": 92,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "resilience_assessment_of_closeness_centrality"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:92"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 73,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "measure_facility_importance_using_closeness_centrality"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:73"
+          },
+          "relationship": {
+            "identity": 1164190399279923273,
+            "start": 73,
+            "end": 92,
+            "type": "provides_input_to",
+            "properties": {
+
+            },
+            "elementId": "5:25fa950a-1e06-4197-9314-195922a1a748:1164190399279923273",
+            "startNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:73",
+            "endNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:92"
+          },
+          "end": {
+            "identity": 92,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "resilience_assessment_of_closeness_centrality"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:92"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 74,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "measure_facility_importance_using_betweenness_centrality"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:74"
+      },
+      "end": {
+        "identity": 78,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "recovery_sequence_using_betweenness_centrality"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:78"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 74,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "measure_facility_importance_using_betweenness_centrality"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:74"
+          },
+          "relationship": {
+            "identity": 1159686799652552778,
+            "start": 74,
+            "end": 78,
+            "type": "provides_input_to",
+            "properties": {
+
+            },
+            "elementId": "5:25fa950a-1e06-4197-9314-195922a1a748:1159686799652552778",
+            "startNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:74",
+            "endNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:78"
+          },
+          "end": {
+            "identity": 78,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "recovery_sequence_using_betweenness_centrality"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:78"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 74,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "measure_facility_importance_using_betweenness_centrality"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:74"
+      },
+      "end": {
+        "identity": 90,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "cascading_failure_identification_by_big_nodes_attacks"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:90"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 74,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "measure_facility_importance_using_betweenness_centrality"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:74"
+          },
+          "relationship": {
+            "identity": 1166442199093608522,
+            "start": 74,
+            "end": 90,
+            "type": "provides_input_to",
+            "properties": {
+
+            },
+            "elementId": "5:25fa950a-1e06-4197-9314-195922a1a748:1166442199093608522",
+            "startNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:74",
+            "endNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:90"
+          },
+          "end": {
+            "identity": 90,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "cascading_failure_identification_by_big_nodes_attacks"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:90"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 74,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "measure_facility_importance_using_betweenness_centrality"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:74"
+      },
+      "end": {
+        "identity": 91,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "resilience_assessment_of_betweenness_centrality"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:91"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 74,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "measure_facility_importance_using_betweenness_centrality"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:74"
+          },
+          "relationship": {
+            "identity": 1161938599466238026,
+            "start": 74,
+            "end": 91,
+            "type": "provides_input_to",
+            "properties": {
+
+            },
+            "elementId": "5:25fa950a-1e06-4197-9314-195922a1a748:1161938599466238026",
+            "startNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:74",
+            "endNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:91"
+          },
+          "end": {
+            "identity": 91,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "resilience_assessment_of_betweenness_centrality"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:91"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 90,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "cascading_failure_identification_by_big_nodes_attacks"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:90"
+      },
+      "end": {
+        "identity": 75,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "recovery_sequence_of_population_and_minimum_cost_by_GA"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:75"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 90,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "cascading_failure_identification_by_big_nodes_attacks"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:90"
+          },
+          "relationship": {
+            "identity": 1152931400211497050,
+            "start": 90,
+            "end": 75,
+            "type": "provides_input_to",
+            "properties": {
+
+            },
+            "elementId": "5:25fa950a-1e06-4197-9314-195922a1a748:1152931400211497050",
+            "startNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:90",
+            "endNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:75"
+          },
+          "end": {
+            "identity": 75,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "recovery_sequence_of_population_and_minimum_cost_by_GA"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:75"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 90,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "cascading_failure_identification_by_big_nodes_attacks"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:90"
+      },
+      "end": {
+        "identity": 76,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "recovery_sequence_of_population_by_GA"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:76"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 90,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "cascading_failure_identification_by_big_nodes_attacks"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:90"
+          },
+          "relationship": {
+            "identity": 1155183200025182298,
+            "start": 90,
+            "end": 76,
+            "type": "provides_input_to",
+            "properties": {
+
+            },
+            "elementId": "5:25fa950a-1e06-4197-9314-195922a1a748:1155183200025182298",
+            "startNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:90",
+            "endNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:76"
+          },
+          "end": {
+            "identity": 76,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "recovery_sequence_of_population_by_GA"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:76"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 90,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "cascading_failure_identification_by_big_nodes_attacks"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:90"
+      },
+      "end": {
+        "identity": 77,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "recovery_sequence_of_population_by_SA"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:77"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 90,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "cascading_failure_identification_by_big_nodes_attacks"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:90"
+          },
+          "relationship": {
+            "identity": 1157434999838867546,
+            "start": 90,
+            "end": 77,
+            "type": "provides_input_to",
+            "properties": {
+
+            },
+            "elementId": "5:25fa950a-1e06-4197-9314-195922a1a748:1157434999838867546",
+            "startNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:90",
+            "endNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:77"
+          },
+          "end": {
+            "identity": 77,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "recovery_sequence_of_population_by_SA"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:77"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 90,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "cascading_failure_identification_by_big_nodes_attacks"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:90"
+      },
+      "end": {
+        "identity": 85,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "recovery_strategy_of_GSCC_by_GA"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:85"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 90,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "cascading_failure_identification_by_big_nodes_attacks"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:90"
+          },
+          "relationship": {
+            "identity": 1159686799652552794,
+            "start": 90,
+            "end": 85,
+            "type": "provides_input_to",
+            "properties": {
+
+            },
+            "elementId": "5:25fa950a-1e06-4197-9314-195922a1a748:1159686799652552794",
+            "startNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:90",
+            "endNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:85"
+          },
+          "end": {
+            "identity": 85,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "recovery_strategy_of_GSCC_by_GA"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:85"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 90,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "cascading_failure_identification_by_big_nodes_attacks"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:90"
+      },
+      "end": {
+        "identity": 86,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "recovery_strategy_of_GSCC_by_SA"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:86"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 90,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "cascading_failure_identification_by_big_nodes_attacks"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:90"
+          },
+          "relationship": {
+            "identity": 1161938599466238042,
+            "start": 90,
+            "end": 86,
+            "type": "provides_input_to",
+            "properties": {
+
+            },
+            "elementId": "5:25fa950a-1e06-4197-9314-195922a1a748:1161938599466238042",
+            "startNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:90",
+            "endNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:86"
+          },
+          "end": {
+            "identity": 86,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "recovery_strategy_of_GSCC_by_SA"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:86"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 90,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "cascading_failure_identification_by_big_nodes_attacks"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:90"
+      },
+      "end": {
+        "identity": 87,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "post_disaster_network_optimization_by_backup_edges"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:87"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 90,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "cascading_failure_identification_by_big_nodes_attacks"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:90"
+          },
+          "relationship": {
+            "identity": 6917538923245731927,
+            "start": 90,
+            "end": 87,
+            "type": "provides_input_to",
+            "properties": {
+
+            },
+            "elementId": "5:25fa950a-1e06-4197-9314-195922a1a748:6917538923245731927",
+            "startNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:90",
+            "endNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:87"
+          },
+          "end": {
+            "identity": 87,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "post_disaster_network_optimization_by_backup_edges"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:87"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 90,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "cascading_failure_identification_by_big_nodes_attacks"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:90"
+      },
+      "end": {
+        "identity": 88,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "post_disaster_network_optimization_by_backup_nodes"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:88"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 90,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "cascading_failure_identification_by_big_nodes_attacks"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:90"
+          },
+          "relationship": {
+            "identity": 6917538923245731928,
+            "start": 90,
+            "end": 88,
+            "type": "provides_input_to",
+            "properties": {
+
+            },
+            "elementId": "5:25fa950a-1e06-4197-9314-195922a1a748:6917538923245731928",
+            "startNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:90",
+            "endNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:88"
+          },
+          "end": {
+            "identity": 88,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "post_disaster_network_optimization_by_backup_nodes"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:88"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 90,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "cascading_failure_identification_by_big_nodes_attacks"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:90"
+      },
+      "end": {
+        "identity": 89,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "post_disaster_network_optimization_by_generate_new_nodes_and_edges"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:89"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 90,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "cascading_failure_identification_by_big_nodes_attacks"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:90"
+          },
+          "relationship": {
+            "identity": 6917538923245731929,
+            "start": 90,
+            "end": 89,
+            "type": "provides_input_to",
+            "properties": {
+
+            },
+            "elementId": "5:25fa950a-1e06-4197-9314-195922a1a748:6917538923245731929",
+            "startNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:90",
+            "endNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:89"
+          },
+          "end": {
+            "identity": 89,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "post_disaster_network_optimization_by_generate_new_nodes_and_edges"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:89"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 90,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "cascading_failure_identification_by_big_nodes_attacks"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:90"
+      },
+      "end": {
+        "identity": 94,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "resilience_assessment_of_GSCC_by_GA"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:94"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 90,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "cascading_failure_identification_by_big_nodes_attacks"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:90"
+          },
+          "relationship": {
+            "identity": 1164190399279923290,
+            "start": 90,
+            "end": 94,
+            "type": "provides_input_to",
+            "properties": {
+
+            },
+            "elementId": "5:25fa950a-1e06-4197-9314-195922a1a748:1164190399279923290",
+            "startNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:90",
+            "endNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:94"
+          },
+          "end": {
+            "identity": 94,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "resilience_assessment_of_GSCC_by_GA"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:94"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 90,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "cascading_failure_identification_by_big_nodes_attacks"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:90"
+      },
+      "end": {
+        "identity": 95,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "resilience_assessment_of_GSCC_by_SA"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:95"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 90,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "cascading_failure_identification_by_big_nodes_attacks"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:90"
+          },
+          "relationship": {
+            "identity": 1168693998907293786,
+            "start": 90,
+            "end": 95,
+            "type": "provides_input_to",
+            "properties": {
+
+            },
+            "elementId": "5:25fa950a-1e06-4197-9314-195922a1a748:1168693998907293786",
+            "startNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:90",
+            "endNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:95"
+          },
+          "end": {
+            "identity": 95,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "resilience_assessment_of_GSCC_by_SA"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:95"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 90,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "cascading_failure_identification_by_big_nodes_attacks"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:90"
+      },
+      "end": {
+        "identity": 99,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "resilience_assessment_of_population_by_GA"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:99"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 90,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "cascading_failure_identification_by_big_nodes_attacks"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:90"
+          },
+          "relationship": {
+            "identity": 1170945798720979034,
+            "start": 90,
+            "end": 99,
+            "type": "provides_input_to",
+            "properties": {
+
+            },
+            "elementId": "5:25fa950a-1e06-4197-9314-195922a1a748:1170945798720979034",
+            "startNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:90",
+            "endNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:99"
+          },
+          "end": {
+            "identity": 99,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "resilience_assessment_of_population_by_GA"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:99"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 90,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "cascading_failure_identification_by_big_nodes_attacks"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:90"
+      },
+      "end": {
+        "identity": 100,
+        "labels": [
+          "Tool"
+        ],
+        "properties": {
+          "name": "resilience_assessment_of_population_by_SA"
+        },
+        "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:100"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 90,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "cascading_failure_identification_by_big_nodes_attacks"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:90"
+          },
+          "relationship": {
+            "identity": 1173197598534664282,
+            "start": 90,
+            "end": 100,
+            "type": "provides_input_to",
+            "properties": {
+
+            },
+            "elementId": "5:25fa950a-1e06-4197-9314-195922a1a748:1173197598534664282",
+            "startNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:90",
+            "endNodeElementId": "4:25fa950a-1e06-4197-9314-195922a1a748:100"
+          },
+          "end": {
+            "identity": 100,
+            "labels": [
+              "Tool"
+            ],
+            "properties": {
+              "name": "resilience_assessment_of_population_by_SA"
+            },
+            "elementId": "4:25fa950a-1e06-4197-9314-195922a1a748:100"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  }
+]

@@ -1,0 +1,644 @@
+{
+    "nodes": [
+        {
+            "Code": "G1",
+            "Initial Load": 95,
+            "Capacity": 100
+        },
+        {
+            "Code": "G2",
+            "Initial Load": 150,
+            "Capacity": 100
+        },
+        {
+            "Code": "G3",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "G15",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "G16",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "G4",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "G5",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "G6",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "G7",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "G8",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "G9",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "G10",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "G11",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "G12",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "G13",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "G14",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "P1",
+            "Initial Load": 250,
+            "Capacity": 100
+        },
+        {
+            "Code": "P2",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "P3",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "P4",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "P5",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "P6",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "P7",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "P8",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "P9",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "P46",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "P47",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "P48",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "P49",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "P50",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "P51",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "P52",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "P53",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "P54",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "P55",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "P56",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "P57",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "P58",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "P59",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "P60",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "P61",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "P62",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "P63",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "P10",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "P11",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "P12",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "P13",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "P14",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "P15",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "P16",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "P17",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "P18",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "P19",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "P20",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "P21",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "P22",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "P23",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "P24",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "P25",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "P26",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "P27",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "P28",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "P29",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "P30",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "P31",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "P32",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "P33",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "P34",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "P35",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "P36",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "P37",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "P38",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "P39",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "P40",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "P41",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "P42",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "P43",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "P44",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "P45",
+            "Initial Load": 98,
+            "Capacity": 100
+        },
+        {
+            "Code": "W1",
+            "Initial Load": 130,
+            "Capacity": 150
+        },
+        {
+            "Code": "W7",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "W10",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "W13",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "W2",
+            "Initial Load": 200,
+            "Capacity": 100
+        },
+        {
+            "Code": "W3",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "W4",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "W5",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "W6",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "W8",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "W9",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "W11",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "W12",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "W14",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "W15",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "W16",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "W17",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "W18",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "W19",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "W20",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "W21",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "W22",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "W23",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "W24",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "W25",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "W26",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "W27",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "W28",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "W29",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "W30",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "W31",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "W32",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "W33",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "W34",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "W35",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "W36",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "W37",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "W38",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "W39",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "W40",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "W41",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "W42",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "W43",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "W44",
+            "Initial Load": 97,
+            "Capacity": 100
+        },
+        {
+            "Code": "W45",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "W46",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "W47",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "W48",
+            "Initial Load": 10,
+            "Capacity": 100
+        },
+        {
+            "Code": "W49",
+            "Initial Load": 10,
+            "Capacity": 100
+        }
+    ]
+}

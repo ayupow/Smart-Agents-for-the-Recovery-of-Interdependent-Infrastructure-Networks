@@ -59,8 +59,9 @@ This table below shows all supplemental materials. All sheets in Tables S1 and S
 
 ## 3 Reuse ths repository
 Prior to executing the agents, please move the code files for defining the functions of the 39 IIN recovery tools—originally located in the directory {Codes for defining the functions of 39 IIN recovery tools}—into the target directory {Codes for running ReAct-based agents} or {Codes for running TS-ReAct-based agents}, depending on the specific agent to be used.
+↓↓↓ All codes for defining the tool functions could be found below.
 
-![Image](https://github.com/user-attachments/assets/d3d8ed33-3ebb-46f7-ba41-b2e1cd9e4376)
+![Image](https://github.com/user-attachments/assets/f5edf27c-d541-4571-9ec4-349a43f1a188)
 
 ### 3.1 Reuse of the codes to operate the agents based on ReAct pattern
 ↓↓↓ Codes for running the agents based on ReAct pattern driven by 8 LLMs.

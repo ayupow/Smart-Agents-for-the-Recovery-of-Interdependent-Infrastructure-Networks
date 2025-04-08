@@ -7,11 +7,11 @@ __As the paper is under review, all contents in this repository are currently no
 
 ### 0.1 Operation of the developed prototype
 
-↓↓↓ A snippet of using the developed prototype to run the TS-ReAct-based agents driven by GPT-4o
+↓↓↓ A snippet of using the **developed prototype** to run the TS-ReAct-based agents driven by GPT-4o
 
 https://github.com/user-attachments/assets/a79ed28e-a42a-4bc7-8c49-fa07a2e0df50
 
-↓↓↓ A snippet of updating the tool kit through the prototype
+↓↓↓ A snippet of **updating the tool kit in the prototype**
 
 https://github.com/user-attachments/assets/310db01b-bbd3-462c-945c-60fbf6867e14
 
@@ -58,7 +58,8 @@ This table below shows all supplemental materials. All sheets in Tables S1 and S
 
 
 ## 3 Reuse ths repository
-Prior to executing the agents, please move the code files for defining the functions of the 39 IIN recovery tools—originally located in the directory {Codes for defining the functions of 39 IIN recovery tools}—into the target directory {Codes for running ReAct-based agents} or {Codes for running TS-ReAct-based agents}, depending on the specific agent to be used.
+Prior to executing the agents, please move the code files for defining the functions of the 39 IIN recovery tools—originally located in the directory **{Codes for defining the functions of 39 IIN recovery tools}**—into the target directory **{Codes for running ReAct-based agents}** or **{Codes for running TS-ReAct-based agents}**, depending on the specific agent to be used.
+
 ↓↓↓ All codes for defining the tool functions could be found below.
 
 ![Image](https://github.com/user-attachments/assets/f5edf27c-d541-4571-9ec4-349a43f1a188)

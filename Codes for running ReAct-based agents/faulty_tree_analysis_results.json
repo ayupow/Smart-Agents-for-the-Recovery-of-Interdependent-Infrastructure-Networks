@@ -1,0 +1,9 @@
+{
+    "faulty_tree_results": {
+        "average_top_event_probability": 0.0,
+        "failed_nodes": [
+            "G1",
+            "P2"
+        ]
+    }
+}

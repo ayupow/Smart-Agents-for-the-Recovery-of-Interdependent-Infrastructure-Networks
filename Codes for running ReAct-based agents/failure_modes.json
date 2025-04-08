@@ -1,0 +1,74 @@
+{
+    "modes": [
+        {
+            "description": "Power outage",
+            "criteria": "power",
+            "severity": 9,
+            "occurrence": 4,
+            "detection": 5
+        },
+        {
+            "description": "Water leakage",
+            "criteria": "water",
+            "severity": 7,
+            "occurrence": 6,
+            "detection": 4
+        },
+        {
+            "description": "Gas leak",
+            "criteria": "gas",
+            "severity": 10,
+            "occurrence": 2,
+            "detection": 3
+        },
+        {
+            "description": "Equipment failure",
+            "criteria": "power",
+            "severity": 8,
+            "occurrence": 5,
+            "detection": 6
+        },
+        {
+            "description": "Pipe burst",
+            "criteria": "water",
+            "severity": 8,
+            "occurrence": 3,
+            "detection": 4
+        },
+        {
+            "description": "Generator failure",
+            "criteria": "power",
+            "severity": 7,
+            "occurrence": 5,
+            "detection": 5
+        },
+        {
+            "description": "Valve malfunction",
+            "criteria": "gas",
+            "severity": 6,
+            "occurrence": 4,
+            "detection": 3
+        },
+        {
+            "description": "Pump failure",
+            "criteria": "water",
+            "severity": 7,
+            "occurrence": 6,
+            "detection": 4
+        },
+        {
+            "description": "Transformer failure",
+            "criteria": "power",
+            "severity": 9,
+            "occurrence": 3,
+            "detection": 4
+        },
+        {
+            "description": "Corrosion of pipes",
+            "criteria": "water",
+            "severity": 6,
+            "occurrence": 5,
+            "detection": 5
+        }
+    ]
+}

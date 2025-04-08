@@ -1,0 +1,30 @@
+{
+    "failures": [
+        {
+            "failed_facilities": "P1",
+            "time": "0",
+            "reason": "overload"
+        },
+        {
+            "failed_facilities": "G2",
+            "time": "0",
+            "reason": "overload"
+        },
+        {
+            "failed_facilities": "W1",
+            "time": "0",
+            "reason": "leakage"
+        },
+                {
+            "failed_facilities": "W2",
+            "time": "0",
+                    "reason": "overload"
+
+        },
+                {
+            "failed_facilities": "P2",
+            "time": "0",
+                    "reason": "equipment failure"
+        }
+    ]
+}

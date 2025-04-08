@@ -1,0 +1,114 @@
+{
+    "modes": [
+        {
+            "description": "Power outage",
+            "criteria": "power",
+            "severity": 9,
+            "occurrence": 4,
+            "detection": 5,
+            "mitigation_strategy": "Install backup generators",
+            "recovery_actions": "Restore power within 2 hours",
+            "cost_implications": 10000,
+            "responsible_party": "Electrical Engineering Team"
+        },
+        {
+            "description": "Water leakage",
+            "criteria": "water",
+            "severity": 7,
+            "occurrence": 6,
+            "detection": 4,
+            "mitigation_strategy": "Regular pipe inspections",
+            "recovery_actions": "Repair within 24 hours",
+            "cost_implications": 5000,
+            "responsible_party": "Plumbing Maintenance Team"
+        },
+        {
+            "description": "Gas leak",
+            "criteria": "gas",
+            "severity": 10,
+            "occurrence": 2,
+            "detection": 3,
+            "mitigation_strategy": "Install gas leak detectors",
+            "recovery_actions": "Evacuate area and repair within 1 hour",
+            "cost_implications": 15000,
+            "responsible_party": "Gas Safety Team"
+        },
+        {
+            "description": "Equipment failure",
+            "criteria": "power",
+            "severity": 8,
+            "occurrence": 5,
+            "detection": 6,
+            "mitigation_strategy": "Regular maintenance checks",
+            "recovery_actions": "Replace equipment within 48 hours",
+            "cost_implications": 12000,
+            "responsible_party": "Maintenance Team"
+        },
+        {
+            "description": "Pipe burst",
+            "criteria": "water",
+            "severity": 8,
+            "occurrence": 3,
+            "detection": 4,
+            "mitigation_strategy": "Pressure monitoring system",
+            "recovery_actions": "Shut off water and repair within 4 hours",
+            "cost_implications": 8000,
+            "responsible_party": "Water Management Team"
+        },
+        {
+            "description": "Generator failure",
+            "criteria": "power",
+            "severity": 7,
+            "occurrence": 5,
+            "detection": 5,
+            "mitigation_strategy": "Regular testing and servicing",
+            "recovery_actions": "Restore generator functionality within 3 hours",
+            "cost_implications": 7000,
+            "responsible_party": "Generator Maintenance Team"
+        },
+        {
+            "description": "Valve malfunction",
+            "criteria": "gas",
+            "severity": 6,
+            "occurrence": 4,
+            "detection": 3,
+            "mitigation_strategy": "Quarterly valve testing",
+            "recovery_actions": "Replace valve within 6 hours",
+            "cost_implications": 6000,
+            "responsible_party": "Gas Management Team"
+        },
+        {
+            "description": "Pump failure",
+            "criteria": "water",
+            "severity": 7,
+            "occurrence": 6,
+            "detection": 4,
+            "mitigation_strategy": "Install backup pumps",
+            "recovery_actions": "Repair or replace pump within 24 hours",
+            "cost_implications": 5000,
+            "responsible_party": "Pump Maintenance Team"
+        },
+        {
+            "description": "Transformer failure",
+            "criteria": "power",
+            "severity": 9,
+            "occurrence": 3,
+            "detection": 4,
+            "mitigation_strategy": "Routine inspection and maintenance",
+            "recovery_actions": "Replace transformer within 72 hours",
+            "cost_implications": 25000,
+            "responsible_party": "Electrical Engineering Team"
+        },
+        {
+            "description": "Corrosion of pipes",
+            "criteria": "water",
+            "severity": 6,
+            "occurrence": 5,
+            "detection": 5,
+            "mitigation_strategy": "Use corrosion-resistant materials",
+            "recovery_actions": "Inspect and replace corroded pipes within 1 month",
+            "cost_implications": 15000,
+            "responsible_party": "Water Infrastructure Team"
+        }
+    ]
+}

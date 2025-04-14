@@ -9,7 +9,7 @@ __As the paper is under review, all contents in this repository are currently no
 
 ↓↓↓ A snippet of using the **developed prototype** to run the TS-ReAct-based agents driven by GPT-4o
 
-![video](https://github.com/ayupow/Smart-Agents-for-the-Recovery-of-Interdependent-Infrastructure-Networks/blob/0ab69889b4d692fff3f191edf27ba0e743cbcdee/Videos/Shown%20in%20README/prototype.mp4)
+![watch the video](https://github.com/ayupow/Smart-Agents-for-the-Recovery-of-Interdependent-Infrastructure-Networks/blob/0ab69889b4d692fff3f191edf27ba0e743cbcdee/Videos/Shown%20in%20README/prototype.mp4)
 
 ↓↓↓ A snippet of **updating the tool kit in the prototype**
 

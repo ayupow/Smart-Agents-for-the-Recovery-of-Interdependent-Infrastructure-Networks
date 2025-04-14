@@ -9,7 +9,7 @@ __As the paper is under review, all contents in this repository are currently no
 
 ↓↓↓ A snippet of using the **developed prototype** to run the TS-ReAct-based agents driven by GPT-4o
 
-https://github.com/user-attachments/assets/a79ed28e-a42a-4bc7-8c49-fa07a2e0df50
+![video](https://github.com/user-attachments/assets/a79ed28e-a42a-4bc7-8c49-fa07a2e0df50)
 
 ↓↓↓ A snippet of **updating the tool kit in the prototype**
 

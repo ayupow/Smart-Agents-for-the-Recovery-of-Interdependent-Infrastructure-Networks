@@ -56,7 +56,7 @@ As for anything regarding the copyright, please refer to the MIT License or cont
 ## 2. Summary of supplemental materials
 This table below shows all supplemental materials. All sheets in Tables S1 and S2 are arranged in the order shown in this table.
 
-![Image](https://github.com/user-attachments/assets/2adff04b-116c-43de-8596-3166022751de)
+![Image](https://github.com/user-attachments/assets/4a0a61b5-748c-41ba-8ae4-e507fb64018d)
 
 ## 3 Reuse ths repository
 Prior to executing the agents, please move the code files for defining the functions of the 39 IIN recovery tools—originally located in the directory **{Codes for defining the functions of 39 IIN recovery tools}**—into the target directory **{Codes for running ReAct-based agents}** or **{Codes for running TS-ReAct-based agents}**, depending on the specific agent to be used.

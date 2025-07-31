@@ -47,7 +47,7 @@ The full video can be found here (https://github.com/ayupow/Smart-Agents-for-the
 
 ## 1. Introduction
 ### 1.1 Objective 
-This repository aims at providing the codes and data regarding the paper entitled “……” for the public, and it is developed by XXX University in China, XXX university in US, and XXX university of HongKong in HK SAR.
+This repository aims at providing the codes and data regarding the paper entitled “……” for the public, and it is developed by XXX University in China, XXX University in US, and XXX University of HongKong in HK SAR.
 ### 1.2 Acknowledgements
 We greatly appreciate the selfless spirits of these voluntary contributors of a series of open python libraries, including LangChain-Agent (https://github.com/LangChain-OpenTutorial/LangChain-OpenTutorial/tree/main/15-Agent), LangChain-RAG (https://github.com/LangChain-OpenTutorial/LangChain-OpenTutorial/tree/main/12-RAG), MTEB leaderboard (https://huggingface.co/spaces/mteb/leaderboard), some base works in general purpose LLM development (https://huggingface.co/google/gemma-2-27b-it, https://huggingface.co/spaces/llamameta/llama3.1-405B, https://huggingface.co/Qwen, and so on). Our work stands on the shoulders of these giants.
 ### 1.3 Copyright

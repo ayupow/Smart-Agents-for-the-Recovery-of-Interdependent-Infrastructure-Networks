@@ -56,7 +56,7 @@ As for anything regarding the copyright, please refer to the MIT License or cont
 ## 2. Summary of supplemental materials
 This table below shows all supplemental materials. All sheets in Tables S1-S4 are arranged in the order shown in this table.
 
-<img width="1247" height="767" alt="image" src="https://github.com/user-attachments/assets/7ae0d6af-92d6-48d8-b637-a5b1011a9185" />
+<img width="1233" height="775" alt="image" src="https://github.com/user-attachments/assets/562363ab-2614-4b08-9748-eebef733a81d" />
 
 ## 3 Reuse ths repository
 ### 3.1 Import defined IIN recovery tools

@@ -1,0 +1,130 @@
+=== INFRASTRUCTURE NODES ===
+ID: 1d8436 | Type: water | Fac: Elevated Tank | Coord: (41.423126584536135, 79.42072304300814)
+ID: 5ef9bf | Type: gas | Fac: Gate Station | Coord: (41.21415835077515, 79.46711175618837)
+ID: 8bd82e | Type: water | Fac: Elevated Tank | Coord: (41.48359880814878, 79.34067843319973)
+ID: 931a98 | Type: water | Fac: Intersection node | Coord: (41.239394983313005, 78.4123625279615)
+ID: 5f0bf9 | Type: water | Fac: Pumping Station | Coord: (41.081011107999316, 78.40318956054296)
+ID: beb49f | Type: power | Fac: Intersection node | Coord: (42.22839396982272, 79.46652958640496)
+ID: 990d6c | Type: power | Fac: 12kv Substation | Coord: (42.240178122917065, 79.42395304028045)
+ID: 36c7c9 | Type: water | Fac: Pumping Station | Coord: (42.451921440993644, 78.38217229702343)
+ID: fda34a | Type: power | Fac: 23kv Substation | Coord: (42.19732373189104, 78.5151642577573)
+ID: 529f89 | Type: power | Fac: 12kv Substation | Coord: (42.53353309646735, 78.4399065592179)
+ID: 41044d | Type: gas | Fac: Regulator Station | Coord: (42.414903189463736, 78.47352821621585)
+ID: 8cc527 | Type: gas | Fac: Regulator Station | Coord: (41.31327518023936, 79.58096963599861)
+ID: 7fb46e | Type: gas | Fac: Gate Station | Coord: (41.439755275853656, 79.74780447414362)
+ID: 339514 | Type: gas | Fac: Regulator Station | Coord: (42.19015483967742, 79.74833102577536)
+ID: 456a30 | Type: gas | Fac: Regulator Station | Coord: (41.98103074613229, 79.69581958133891)
+ID: 647140 | Type: gas | Fac: Intersection node | Coord: (42.191327683729035, 78.67298043232921)
+ID: 17210f | Type: gas | Fac: Gate Station | Coord: (42.237333581428125, 78.72416822473774)
+ID: f20c3a | Type: water | Fac: Elevated Tank | Coord: (42.11265582148715, 79.03737600419127)
+ID: 4ba192 | Type: power | Fac: Intersection node | Coord: (42.15644955810373, 79.05454799652946)
+ID: 06488a | Type: gas | Fac: Intersection node | Coord: (42.448261044390925, 78.82325038470812)
+ID: 89e521 | Type: water | Fac: Intersection node | Coord: (42.577017517100316, 78.84492048269239)
+ID: 717afc | Type: power | Fac: Gate Station | Coord: (42.48011463045607, 78.86128202844546)
+ID: e8a1a0 | Type: gas | Fac: Regulator Station | Coord: (42.64224856190743, 79.03429875486036)
+ID: e24d5e | Type: power | Fac: 23kv Substation | Coord: (42.306275405428174, 78.97848140143591)
+ID: b5bfc6 | Type: water | Fac: Elevated Tank | Coord: (42.39719975037933, 78.88528991910478)
+ID: 9861cf | Type: gas | Fac: Intersection node | Coord: (40.9755869888096, 79.18681459891252)
+ID: dbfd34 | Type: water | Fac: Elevated Tank | Coord: (41.09927477286294, 79.02946383527406)
+ID: 0440aa | Type: power | Fac: 23kv Substation | Coord: (41.15172431470421, 79.3027499241346)
+ID: d95775 | Type: power | Fac: 23kv Substation | Coord: (42.06541109355056, 78.78445460486947)
+ID: 16e6f2 | Type: water | Fac: Intersection node | Coord: (41.97703865313238, 78.80447506326611)
+ID: 211da0 | Type: gas | Fac: Regulator Station | Coord: (41.03073098076882, 79.42110482313367)
+ID: 351964 | Type: power | Fac: Gate Station | Coord: (40.817174080136375, 79.2612510484349)
+ID: a9969a | Type: power | Fac: Intersection node | Coord: (42.10919500428917, 79.34715271832793)
+ID: e788e4 | Type: water | Fac: Pumping Station | Coord: (42.03902576896985, 79.32686282635512)
+ID: 927d54 | Type: water | Fac: Intersection node | Coord: (41.96868454604509, 79.24299435109889)
+ID: c88c4a | Type: gas | Fac: Regulator Station | Coord: (41.17763061945423, 79.11509104059427)
+ID: 1d25b1 | Type: water | Fac: Elevated Tank | Coord: (41.37080528575922, 79.16420473994019)
+ID: 645dae | Type: gas | Fac: Regulator Station | Coord: (41.28341154397736, 79.29851375147723)
+ID: cbd0c6 | Type: gas | Fac: Regulator Station | Coord: (41.52638923636872, 79.50381631220455)
+ID: a5c8c4 | Type: water | Fac: Pumping Station | Coord: (41.59096986120276, 79.42358532330971)
+ID: 0633af | Type: gas | Fac: Gate Station | Coord: (42.26831270470994, 79.2954518560498)
+ID: a1a398 | Type: power | Fac: 12kv Substation | Coord: (42.470919317174484, 79.25937083383532)
+ID: 253485 | Type: gas | Fac: Intersection node | Coord: (42.45624911762052, 79.18112935746825)
+ID: b59535 | Type: gas | Fac: Regulator Station | Coord: (41.55396881015563, 78.50408238711071)
+ID: 2c0184 | Type: gas | Fac: Regulator Station | Coord: (41.81087497225574, 78.40866706940673)
+ID: 7fad83 | Type: water | Fac: Elevated Tank | Coord: (41.467175500311264, 78.39194116118121)
+ID: e7b33b | Type: water | Fac: Intersection node | Coord: (41.90737367930723, 78.21431998767657)
+ID: f2d5ff | Type: water | Fac: Elevated Tank | Coord: (41.92683233788009, 78.09486355415298)
+ID: 022f87 | Type: power | Fac: 23kv Substation | Coord: (42.01767458711173, 78.36159178888741)
+ID: 1272a9 | Type: power | Fac: 23kv Substation | Coord: (41.75312642418504, 79.53188954866988)
+ID: 563325 | Type: gas | Fac: Intersection node | Coord: (41.77685321647196, 79.46189227329904)
+ID: a7f8f3 | Type: water | Fac: Elevated Tank | Coord: (41.744590457239504, 79.40003471185616)
+ID: 6af443 | Type: gas | Fac: Regulator Station | Coord: (41.79722374133815, 79.50175179318303)
+ID: 4c9f0d | Type: power | Fac: Intersection node | Coord: (41.87156451375414, 79.07624459313244)
+ID: 29f7be | Type: water | Fac: Intersection node | Coord: (41.57143595795934, 79.1846280603592)
+ID: f5c439 | Type: gas | Fac: Gate Station | Coord: (41.52169254747727, 78.03001132912478)
+ID: a06828 | Type: gas | Fac: Gate Station | Coord: (41.6146739925991, 77.99487368339138)
+ID: 784a4a | Type: gas | Fac: Gate Station | Coord: (42.65609175121043, 78.79055895537067)
+ID: 16dec4 | Type: power | Fac: 12kv Substation | Coord: (42.65408135429544, 78.68329935470462)
+ID: 0daccd | Type: power | Fac: 12kv Substation | Coord: (42.46833743924514, 78.68190352413411)
+ID: 82662c | Type: power | Fac: Gate Station | Coord: (42.53773515351523, 78.7592856157312)
+ID: 021197 | Type: water | Fac: Elevated Tank | Coord: (42.23498266020303, 78.1362474436582)
+ID: c3dc6b | Type: power | Fac: Gate Station | Coord: (42.21704891878749, 78.06613180740034)
+ID: 874479 | Type: water | Fac: Pumping Station | Coord: (42.21396965248842, 78.10683213178943)
+ID: ac66a8 | Type: power | Fac: 12kv Substation | Coord: (42.19046454245487, 78.09329414416807)
+
+=== INFRASTRUCTURE EDGES ===
+Type: gas | From: 5ef9bf -> To: 41044d
+Type: gas | From: 41044d -> To: 8cc527
+Type: gas | From: 8cc527 -> To: 7fb46e
+Type: gas | From: 7fb46e -> To: 339514
+Type: gas | From: 339514 -> To: 456a30
+Type: gas | From: 456a30 -> To: 647140
+Type: gas | From: 647140 -> To: 17210f
+Type: gas | From: 17210f -> To: 06488a
+Type: gas | From: 06488a -> To: e8a1a0
+Type: gas | From: e8a1a0 -> To: 9861cf
+Type: gas | From: 9861cf -> To: 211da0
+Type: gas | From: 211da0 -> To: c88c4a
+Type: gas | From: c88c4a -> To: 645dae
+Type: gas | From: 645dae -> To: cbd0c6
+Type: gas | From: cbd0c6 -> To: 0633af
+Type: gas | From: 0633af -> To: 253485
+Type: gas | From: 253485 -> To: b59535
+Type: gas | From: b59535 -> To: 2c0184
+Type: gas | From: 2c0184 -> To: 563325
+Type: gas | From: 563325 -> To: 6af443
+Type: gas | From: 6af443 -> To: f5c439
+Type: gas | From: f5c439 -> To: a06828
+Type: gas | From: a06828 -> To: 784a4a
+Type: water | From: 1d8436 -> To: 8bd82e
+Type: water | From: 8bd82e -> To: 931a98
+Type: water | From: 931a98 -> To: 5f0bf9
+Type: water | From: 5f0bf9 -> To: 36c7c9
+Type: water | From: 36c7c9 -> To: f20c3a
+Type: water | From: f20c3a -> To: 89e521
+Type: water | From: 89e521 -> To: b5bfc6
+Type: water | From: b5bfc6 -> To: dbfd34
+Type: water | From: dbfd34 -> To: 16e6f2
+Type: water | From: 16e6f2 -> To: e788e4
+Type: water | From: e788e4 -> To: 927d54
+Type: water | From: 927d54 -> To: 1d25b1
+Type: water | From: 1d25b1 -> To: a5c8c4
+Type: water | From: a5c8c4 -> To: 7fad83
+Type: water | From: 7fad83 -> To: e7b33b
+Type: water | From: e7b33b -> To: f2d5ff
+Type: water | From: f2d5ff -> To: a7f8f3
+Type: water | From: a7f8f3 -> To: 29f7be
+Type: water | From: 29f7be -> To: 021197
+Type: water | From: 021197 -> To: 874479
+Type: power | From: beb49f -> To: 990d6c
+Type: power | From: 990d6c -> To: fda34a
+Type: power | From: fda34a -> To: 529f89
+Type: power | From: 529f89 -> To: 4ba192
+Type: power | From: 4ba192 -> To: 717afc
+Type: power | From: 717afc -> To: e24d5e
+Type: power | From: e24d5e -> To: 0440aa
+Type: power | From: 0440aa -> To: d95775
+Type: power | From: d95775 -> To: 351964
+Type: power | From: 351964 -> To: a9969a
+Type: power | From: a9969a -> To: a1a398
+Type: power | From: a1a398 -> To: 022f87
+Type: power | From: 022f87 -> To: 1272a9
+Type: power | From: 1272a9 -> To: 4c9f0d
+Type: power | From: 4c9f0d -> To: 16dec4
+Type: power | From: 16dec4 -> To: 0daccd
+Type: power | From: 0daccd -> To: 82662c
+Type: power | From: 82662c -> To: c3dc6b
+Type: power | From: c3dc6b -> To: ac66a8

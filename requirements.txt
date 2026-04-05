@@ -248,7 +248,7 @@ tzlocal==5.2
 unstructured==0.10.30
 urllib3==1.26.18
 uvicorn==0.24.0.post1
-virtualenv==20.23.1
+virtualenv==20.23.0
 volcengine-python-sdk==1.0.122
 watchdog==5.0.2
 watchfiles==0.21.0

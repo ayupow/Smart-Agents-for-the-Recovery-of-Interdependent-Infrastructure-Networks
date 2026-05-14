@@ -1,5 +1,5 @@
 ## 📣✨Update & Celebrate 05/2026
-Our paper is online in Expert Systems With Applications 
+Our paper is online in **Expert Systems With Applications**
 https://www.sciencedirect.com/science/article/abs/pii/S0957417426016143
 
 ## 📣✨Update 04/23/2026

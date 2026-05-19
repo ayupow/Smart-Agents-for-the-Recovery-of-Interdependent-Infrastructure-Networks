@@ -14,8 +14,6 @@ We have Updated the supplemental materials for manuscript ×××, as summarized 
 A Figure is made public to show the process of agent operation
 <img width="1454" height="906" alt="image" src="https://github.com/user-attachments/assets/0b782c74-fcaf-40dd-8c28-8b368d562349" />
 
-## ⚠️ Important Notice ⚠️
-## __As the paper is under review, all contents in this repository are currently not permitted for reuse by anyone until this announcement is removed. Thank you for your understanding! 🙏__
 
 ## 0. Videos of agents operation
 

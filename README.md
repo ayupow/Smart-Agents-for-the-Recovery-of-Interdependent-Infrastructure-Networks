@@ -1,4 +1,4 @@
-## 📣✨Update & Celebrate 05/2026
+## 📣✨Cheer 05/2026
 Our paper is online in **Expert Systems With Applications**
 https://www.sciencedirect.com/science/article/abs/pii/S0957417426016143
 
